@@ -1,0 +1,301 @@
+user_id,location,device,verified
+user_1,Nairobi,Tablet,False
+user_2,Dar es Salaam,Android,False
+user_3,Mombasa,Desktop,True
+user_4,Zanzibar,,True
+user_5,Arusha,Tablet,True
+user_6,,Desktop,False
+user_7,Dar es Salaam,Tablet,False
+user_8,Nairobi,Tablet,False
+user_9,Zanzibar,Desktop,True
+user_10,Eldoret,Tablet,True
+user_11,Nairobi,Desktop,True
+user_12,Kampala,iOS,False
+user_13,Kigali,Android,False
+user_14,Dar es Salaam,Tablet,
+user_15,Kigali,Tablet,True
+user_16,Arusha,Tablet,
+user_17,Kigali,Tablet,True
+user_18,Nairobi,iOS,False
+user_19,Zanzibar,Desktop,True
+user_20,Arusha,Desktop,
+user_21,Addis Ababa,Desktop,True
+user_22,Kigali,iOS,True
+user_23,Mombasa,Tablet,False
+user_24,,iOS,True
+user_25,Addis Ababa,Tablet,False
+user_26,Dar es Salaam,Android,False
+user_27,Arusha,iOS,False
+user_28,Kigali,iOS,False
+user_29,Kigali,Desktop,False
+user_30,Addis Ababa,Desktop,
+user_31,Mombasa,Desktop,False
+user_32,Kampala,Tablet,False
+user_33,Dar es Salaam,Desktop,True
+user_34,Arusha,iOS,False
+user_35,Zanzibar,iOS,False
+user_36,Kigali,Tablet,False
+user_37,Nairobi,Desktop,True
+user_38,Nairobi,iOS,True
+user_39,Arusha,Desktop,True
+user_40,Dar es Salaam,Android,False
+user_41,Kigali,iOS,True
+user_42,Eldoret,Android,True
+user_43,Eldoret,iOS,True
+user_44,Kampala,Tablet,True
+user_45,Zanzibar,Android,False
+user_46,Arusha,Tablet,False
+user_47,Arusha,Desktop,False
+user_48,Kampala,Android,False
+user_49,Mombasa,Tablet,True
+user_50,Mombasa,Android,False
+user_51,Kampala,Android,True
+user_52,Arusha,Android,True
+user_53,Arusha,Desktop,False
+user_54,Eldoret,iOS,
+user_55,Zanzibar,Tablet,False
+user_56,Nairobi,iOS,True
+user_57,Mombasa,Tablet,False
+user_58,Zanzibar,Tablet,True
+user_59,Kigali,Tablet,True
+user_60,Arusha,Android,False
+user_61,Nairobi,Android,True
+user_62,Addis Ababa,iOS,False
+user_63,Kampala,Desktop,True
+user_64,Mombasa,iOS,True
+user_65,Addis Ababa,Android,
+user_66,Zanzibar,Tablet,False
+user_67,Kampala,Tablet,True
+user_68,Kampala,iOS,False
+user_69,Zanzibar,Desktop,False
+user_70,Kigali,Tablet,True
+user_71,Mombasa,iOS,False
+user_72,Addis Ababa,iOS,True
+user_73,Dar es Salaam,iOS,False
+user_74,Mombasa,Desktop,True
+user_75,Eldoret,Android,True
+user_76,Zanzibar,Desktop,False
+user_77,Kampala,Desktop,False
+user_78,Zanzibar,Tablet,True
+user_79,Zanzibar,Tablet,False
+user_80,Arusha,Tablet,False
+user_81,Zanzibar,Android,True
+user_82,Dar es Salaam,Desktop,False
+user_83,Arusha,Android,True
+user_84,Kigali,Android,True
+user_85,Zanzibar,Desktop,False
+user_86,Dar es Salaam,iOS,False
+user_87,Kigali,Tablet,True
+user_88,,iOS,False
+user_89,Dar es Salaam,Tablet,True
+user_90,,Tablet,True
+user_91,Nairobi,Tablet,True
+user_92,Nairobi,Desktop,True
+user_93,Mombasa,Android,True
+user_94,Addis Ababa,Desktop,True
+user_95,Dar es Salaam,Tablet,True
+user_96,Eldoret,Tablet,False
+user_97,Eldoret,Android,False
+user_98,Dar es Salaam,Desktop,True
+user_99,Arusha,Android,False
+user_100,Arusha,Tablet,True
+user_101,Nairobi,Android,False
+user_102,Mombasa,Tablet,False
+user_103,Kigali,iOS,False
+user_104,Mombasa,Tablet,True
+user_105,Dar es Salaam,Android,True
+user_106,Kampala,iOS,True
+user_107,Addis Ababa,Tablet,False
+user_108,Mombasa,Tablet,True
+user_109,Zanzibar,iOS,True
+user_110,Zanzibar,Desktop,True
+user_111,Mombasa,Tablet,True
+user_112,Dar es Salaam,Android,True
+user_113,Eldoret,Android,True
+user_114,Arusha,iOS,False
+user_115,Kampala,Desktop,False
+user_116,Arusha,Desktop,False
+user_117,Eldoret,Tablet,True
+user_118,Zanzibar,iOS,True
+user_119,Eldoret,iOS,True
+user_120,Addis Ababa,iOS,False
+user_121,Nairobi,Desktop,True
+user_122,Zanzibar,Tablet,
+user_123,Kigali,Desktop,False
+user_124,Eldoret,Desktop,True
+user_125,Zanzibar,Tablet,False
+user_126,Zanzibar,Tablet,True
+user_127,Kampala,Desktop,True
+user_128,Mombasa,Tablet,True
+user_129,Dar es Salaam,Desktop,False
+user_130,Dar es Salaam,iOS,False
+user_131,Nairobi,iOS,True
+user_132,Arusha,Tablet,
+user_133,Zanzibar,,False
+user_134,Addis Ababa,Tablet,False
+user_135,Kigali,iOS,True
+user_136,Arusha,Android,True
+user_137,Addis Ababa,Desktop,False
+user_138,Mombasa,Tablet,False
+user_139,,Tablet,False
+user_140,Mombasa,,True
+user_141,Dar es Salaam,iOS,False
+user_142,Kampala,Desktop,True
+user_143,Mombasa,Tablet,False
+user_144,Kigali,Desktop,
+user_145,Eldoret,Tablet,False
+user_146,Addis Ababa,Tablet,True
+user_147,Zanzibar,Android,True
+user_148,,iOS,True
+user_149,Addis Ababa,Desktop,False
+user_150,Mombasa,Android,False
+user_151,Kampala,Android,True
+user_152,Mombasa,Android,False
+user_153,Kampala,Desktop,False
+user_154,Dar es Salaam,Android,True
+user_155,Dar es Salaam,Android,False
+user_156,Addis Ababa,Desktop,
+user_157,Addis Ababa,iOS,True
+user_158,Nairobi,iOS,False
+user_159,Arusha,Android,False
+user_160,Nairobi,Tablet,False
+user_161,,iOS,True
+user_162,Addis Ababa,iOS,True
+user_163,Eldoret,Desktop,False
+user_164,Arusha,Android,False
+user_165,Mombasa,Tablet,False
+user_166,Kampala,iOS,False
+user_167,Kigali,Desktop,True
+user_168,Kampala,Desktop,False
+user_169,Nairobi,Tablet,False
+user_170,Nairobi,Tablet,False
+user_171,Dar es Salaam,iOS,True
+user_172,Mombasa,Tablet,False
+user_173,Zanzibar,Tablet,False
+user_174,Arusha,Desktop,False
+user_175,Kampala,Desktop,False
+user_176,Dar es Salaam,,False
+user_177,Kampala,Tablet,True
+user_178,Nairobi,Android,False
+user_179,Kigali,Tablet,False
+user_180,Arusha,Desktop,True
+user_181,Dar es Salaam,iOS,False
+user_182,Mombasa,Desktop,True
+user_183,Nairobi,iOS,True
+user_184,Dar es Salaam,iOS,False
+user_185,Eldoret,Android,
+user_186,Dar es Salaam,Tablet,False
+user_187,Dar es Salaam,,True
+user_188,Addis Ababa,iOS,False
+user_189,Addis Ababa,Desktop,False
+user_190,Zanzibar,Tablet,True
+user_191,Zanzibar,iOS,False
+user_192,Nairobi,Desktop,False
+user_193,Addis Ababa,Desktop,True
+user_194,Addis Ababa,Desktop,
+user_195,,Tablet,False
+user_196,Kigali,Desktop,True
+user_197,Kigali,Desktop,False
+user_198,Zanzibar,Tablet,True
+user_199,Dar es Salaam,iOS,False
+user_200,Arusha,iOS,False
+user_201,,Tablet,True
+user_202,Zanzibar,Desktop,False
+user_203,Dar es Salaam,Tablet,False
+user_204,Mombasa,,False
+user_205,Kigali,Tablet,True
+user_206,Mombasa,Desktop,False
+user_207,Addis Ababa,Desktop,True
+user_208,Arusha,iOS,True
+user_209,Addis Ababa,Desktop,True
+user_210,Dar es Salaam,iOS,True
+user_211,Arusha,Tablet,True
+user_212,Kampala,Desktop,True
+user_213,Addis Ababa,Android,False
+user_214,Nairobi,Android,True
+user_215,Dar es Salaam,Tablet,True
+user_216,Kigali,iOS,False
+user_217,Eldoret,iOS,False
+user_218,Zanzibar,Desktop,False
+user_219,Kampala,Tablet,True
+user_220,Addis Ababa,iOS,False
+user_221,Kigali,Android,False
+user_222,Dar es Salaam,Tablet,False
+user_223,Dar es Salaam,Desktop,True
+user_224,Kampala,,True
+user_225,,Tablet,True
+user_226,Eldoret,iOS,True
+user_227,Mombasa,Android,True
+user_228,Dar es Salaam,Desktop,True
+user_229,Arusha,Desktop,False
+user_230,Dar es Salaam,Desktop,False
+user_231,Nairobi,Android,False
+user_232,Mombasa,Tablet,False
+user_233,Dar es Salaam,iOS,True
+user_234,Zanzibar,Android,True
+user_235,Zanzibar,Desktop,True
+user_236,Mombasa,iOS,False
+user_237,Eldoret,iOS,True
+user_238,Zanzibar,iOS,True
+user_239,Eldoret,iOS,False
+user_240,Zanzibar,iOS,False
+user_241,Zanzibar,Android,True
+user_242,Kampala,iOS,False
+user_243,Eldoret,Desktop,False
+user_244,Dar es Salaam,Android,False
+user_245,Addis Ababa,Android,True
+user_246,Zanzibar,Desktop,True
+user_247,Dar es Salaam,iOS,False
+user_248,Mombasa,Android,False
+user_249,Dar es Salaam,Android,False
+user_250,Kigali,Tablet,False
+user_251,Mombasa,Android,False
+user_252,Dar es Salaam,Desktop,True
+user_253,Kampala,Android,True
+user_254,Mombasa,iOS,False
+user_255,Kigali,Android,False
+user_256,Arusha,Desktop,True
+user_257,Arusha,Android,False
+user_258,Nairobi,Tablet,False
+user_259,Arusha,Tablet,True
+user_260,Kigali,Tablet,False
+user_261,Arusha,Tablet,True
+user_262,Arusha,Android,False
+user_263,Zanzibar,iOS,False
+user_264,Dar es Salaam,Desktop,True
+user_265,Addis Ababa,Desktop,False
+user_266,Nairobi,Desktop,True
+user_267,Arusha,Tablet,True
+user_268,Eldoret,Android,False
+user_269,Zanzibar,iOS,False
+user_270,,iOS,True
+user_271,Nairobi,Tablet,False
+user_272,Arusha,Android,False
+user_273,Eldoret,Desktop,False
+user_274,Addis Ababa,Desktop,False
+user_275,Dar es Salaam,Tablet,True
+user_276,Kigali,Android,False
+user_277,Arusha,Android,False
+user_278,Arusha,Desktop,False
+user_279,Mombasa,Android,True
+user_280,Zanzibar,Desktop,True
+user_281,Kigali,Tablet,False
+user_282,Mombasa,Tablet,False
+user_283,Nairobi,Android,True
+user_284,Dar es Salaam,Desktop,False
+user_285,Nairobi,iOS,True
+user_286,Dar es Salaam,Tablet,
+user_287,Mombasa,Android,False
+user_288,Dar es Salaam,Desktop,True
+user_289,Addis Ababa,Desktop,True
+user_290,Kampala,Tablet,False
+user_291,Mombasa,Android,False
+user_292,Kampala,Desktop,False
+user_293,Mombasa,,False
+user_294,Addis Ababa,Desktop,True
+user_295,Arusha,Desktop,True
+user_296,Dar es Salaam,,False
+user_297,Dar es Salaam,Tablet,True
+user_298,Addis Ababa,Android,False
+user_299,Mombasa,iOS,True
+user_300,Nairobi,Tablet,False

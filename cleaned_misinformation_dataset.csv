@@ -1,0 +1,1001 @@
+clean_text,likes,shares,comments,sentiment_score,contains_link,contains_hashtag,platform_encoded,device_encoded,verified_encoded,target
+solar disinfection of water proves effective,299,54,28,0.14,1,1,0,3,0,0
+rainwater harvesting gains popularity in uganda,224,119,32,0.03,0,1,2,2,0,0
+unknown,129,74,61,0.05,1,1,2,2,0,0
+clean water access has improved in rural kenya,64,20,14,-0.64,1,0,2,3,1,0
+water kiosks now serve clean water in nairobi,36,132,1,-0.01,0,0,1,1,0,0
+tap water linked to reduced iq,127,86,51,0.03,0,1,0,1,1,1
+proper handwashing reduces cholera outbreaks,230,58,43,0.7,1,1,0,3,0,0
+sanitation drives are working in rural areas,240,88,53,-0.07,0,1,1,2,0,0
+experts debate the safety of boiling water,62,149,17,0.86,1,1,3,2,1,1
+more east african homes now use filtration,242,82,2,0.66,1,0,2,3,0,0
+drinking bottled water causes kidney failure,167,64,6,-0.19,1,0,3,2,1,1
+sanitation drives are working in rural areas,278,63,42,0.48,0,1,1,0,0,0
+mobile apps now report safe borehole locations,30,70,81,-0.26,1,1,3,3,1,0
+water kiosks now serve clean water in nairobi,62,3,37,1.0,0,1,3,0,0,0
+drinking bottled water causes kidney failure,284,142,36,0.15,1,0,1,2,0,1
+safe sanitation is key to public health,290,103,57,0.34,0,0,2,1,1,0
+using soap daily can cause skin cancer,223,149,32,0.26,1,0,3,1,0,1
+safe sanitation is key to public health,40,92,58,1.14,0,0,0,0,0,0
+chlorinated water is a government mind control tactic,192,141,94,0.42,1,1,3,3,1,1
+vaccines in water are used to track people,32,147,10,-0.84,0,1,3,3,1,1
+using soap daily can cause skin cancer,41,111,67,0.27,0,0,0,0,1,1
+soap brands contain microchips for surveillance,83,118,81,0.18,0,1,2,3,0,1
+public toilets improve hygiene in kampala,19,58,67,0.25,1,1,0,2,1,0
+safe sanitation is key to public health,63,42,97,0.12,1,0,2,2,1,0
+boiled water increases blood acidity,61,11,92,0.83,1,1,1,2,0,1
+solar disinfection of water proves effective,157,39,87,-0.2,1,1,1,3,0,0
+east african communities adopt water filtration,169,117,21,-0.11,1,1,3,2,0,0
+ngos distribute water purification tablets,23,19,65,0.55,1,1,3,2,1,0
+local programs claim sanitation success,187,130,43,-0.42,1,0,1,1,0,0
+water kiosks now serve clean water in nairobi,62,89,5,0.54,1,0,0,0,1,0
+soap brands contain microchips for surveillance,31,93,41,0.04,1,0,1,2,0,1
+safe sanitation is key to public health,39,12,24,0.07,0,1,2,0,0,0
+filtered water removes essential nutrients,200,65,56,0.38,1,1,3,3,1,1
+rainwater harvesting gains popularity in uganda,269,36,84,0.32,0,1,0,3,1,0
+rainwater is safer than treated tap water,214,65,54,0.09,0,1,3,1,1,1
+chlorinated water is a government mind control tactic,68,35,15,-0.17,0,1,1,1,1,1
+western ngos poison wells to reduce population,273,25,94,0.05,0,1,0,1,0,1
+soap brands contain microchips for surveillance,21,74,13,0.95,0,1,1,2,1,1
+tap water linked to reduced iq,128,107,38,0.05,0,0,2,2,0,1
+unknown,299,42,27,-0.24,0,1,1,3,0,0
+new who guidelines promote water boiling,257,149,95,0.11,1,1,0,1,0,0
+sanitation drives are working in rural areas,136,147,91,0.16,0,1,1,1,0,0
+proper handwashing reduces cholera outbreaks,84,7,50,0.87,0,1,3,1,1,0
+ngos distribute water purification tablets,213,28,48,0.31,0,1,3,1,1,0
+experts debate the safety of boiling water,58,39,8,0.94,0,0,0,3,0,1
+local programs claim sanitation success,88,127,57,1.02,0,0,3,1,0,1
+rainwater harvesting gains popularity in uganda,250,83,44,0.49,1,1,2,0,1,0
+experts debate the safety of boiling water,163,115,21,-0.06,1,1,2,0,0,1
+new who guidelines promote water boiling,283,143,31,-0.03,1,1,0,0,0,0
+sanitizer causes infertility experts say,105,61,68,0.6,0,1,1,3,0,1
+experts debate the safety of boiling water,223,6,86,-0.38,1,0,3,3,1,1
+solar disinfection of water proves effective,218,44,68,-0.06,1,1,3,2,0,0
+new who guidelines promote water boiling,97,87,41,0.77,0,0,1,3,0,0
+vaccines in water are used to track people,273,72,52,1.2,1,1,1,1,0,1
+studies show water quality impacts health,166,36,95,0.02,0,1,1,2,1,0
+clean water access has improved in rural kenya,165,118,58,0.41,0,1,1,3,1,0
+drinking bottled water causes kidney failure,148,56,73,0.22,1,1,3,1,0,1
+more east african homes now use filtration,130,7,38,0.18,0,1,2,3,1,0
+tap water linked to reduced iq,74,94,14,-0.15,1,1,0,2,0,1
+water kiosks now serve clean water in nairobi,116,116,70,0.97,1,1,0,2,1,0
+boiling water damages your organs,156,109,28,-0.1,0,1,1,1,1,1
+water kiosks now serve clean water in nairobi,146,19,2,0.09,1,1,2,2,1,0
+sanitizer causes infertility experts say,171,123,82,-0.36,1,0,3,4,0,1
+unknown,109,52,9,-0.19,0,1,3,0,0,1
+ngos distribute water purification tablets,150,118,91,0.36,1,0,0,3,1,0
+proper handwashing reduces cholera outbreaks,92,11,28,0.3,1,0,1,3,1,0
+natural spring water prevents covid,186,16,78,-0.05,1,0,2,1,0,1
+more east african homes now use filtration,207,63,34,0.26,1,0,0,1,1,0
+solar disinfection of water proves effective,121,41,5,0.38,1,1,2,3,0,0
+new who guidelines promote water boiling,65,93,11,0.2,0,1,1,1,1,0
+soap brands contain microchips for surveillance,188,146,37,-0.0,1,0,1,3,0,1
+chlorinated water is a government mind control tactic,195,10,76,0.48,1,1,0,3,1,1
+unknown,227,97,92,0.47,0,1,1,3,1,0
+water kiosks now serve clean water in nairobi,226,70,18,0.57,0,0,2,2,1,0
+mobile apps now report safe borehole locations,129,107,66,0.81,1,0,2,0,0,0
+studies show water quality impacts health,184,57,7,0.71,1,1,0,1,1,0
+public toilets improve hygiene in kampala,32,33,7,0.34,0,0,1,1,0,0
+experts debate the safety of boiling water,222,19,83,0.15,1,1,3,0,1,0
+face masks cause water contamination when washed,244,49,46,0.71,0,1,1,1,1,1
+natural spring water prevents covid,22,101,3,-0.15,0,1,0,2,0,1
+ngos distribute water purification tablets,110,137,50,0.13,1,0,0,0,1,0
+vaccines in water are used to track people,33,51,84,-0.45,1,0,3,1,0,1
+rainwater harvesting gains popularity in uganda,20,14,66,0.06,0,0,0,1,1,0
+tap water linked to reduced iq,282,83,44,0.47,0,0,0,2,1,1
+water kiosks now serve clean water in nairobi,290,130,7,-0.06,0,1,3,0,0,0
+public toilets improve hygiene in kampala,103,36,86,-0.27,1,0,3,3,1,0
+sanitation drives are working in rural areas,210,125,15,1.07,0,1,2,3,0,0
+proper handwashing reduces cholera outbreaks,30,39,76,0.8,0,1,0,3,1,0
+local programs claim sanitation success,220,71,66,-0.04,0,1,3,2,1,1
+more east african homes now use filtration,149,39,8,0.44,0,1,2,0,0,0
+local programs claim sanitation success,110,55,59,0.5,1,1,0,1,1,0
+clean water access has improved in rural kenya,37,103,77,0.59,1,1,3,0,0,0
+more east african homes now use filtration,50,138,76,-0.54,1,1,0,3,0,0
+boiled water increases blood acidity,155,109,70,-0.16,0,1,2,3,0,1
+mobile apps now report safe borehole locations,265,135,14,0.09,1,1,1,4,0,0
+water kiosks now serve clean water in nairobi,236,92,70,0.39,1,0,0,0,0,0
+proper handwashing reduces cholera outbreaks,245,93,97,0.49,0,1,0,2,0,0
+sanitation drives are working in rural areas,22,55,40,0.9,1,0,0,0,1,0
+rainwater is safer than treated tap water,219,59,21,0.67,0,0,0,3,0,1
+experts debate the safety of boiling water,238,137,23,0.36,0,0,3,0,1,0
+rainwater is safer than treated tap water,109,38,43,0.02,0,0,1,0,0,1
+experts debate the safety of boiling water,40,27,0,1.0,0,1,0,3,1,0
+ngos distribute water purification tablets,25,48,9,-0.13,1,1,3,0,0,0
+natural spring water prevents covid,146,124,79,0.07,1,1,1,2,1,1
+studies show water quality impacts health,175,12,71,0.01,0,0,2,1,0,0
+local programs claim sanitation success,109,35,55,0.79,0,1,2,0,0,0
+unknown,118,100,88,0.05,1,0,2,0,1,1
+local programs claim sanitation success,182,25,49,-0.04,0,1,2,1,1,0
+experts debate the safety of boiling water,246,85,11,0.02,0,0,2,2,1,1
+local programs claim sanitation success,171,3,88,0.77,0,1,1,0,1,0
+soap brands contain microchips for surveillance,225,81,80,-0.05,1,1,0,2,0,1
+unknown,273,126,59,0.47,1,1,2,1,1,1
+east african communities adopt water filtration,272,87,25,-0.3,1,0,0,0,0,0
+western ngos poison wells to reduce population,283,126,77,-0.09,1,0,0,0,1,1
+solar disinfection of water proves effective,12,119,40,0.13,1,0,0,0,1,0
+natural spring water prevents covid,37,21,35,-0.69,1,0,0,2,0,1
+east african communities adopt water filtration,158,129,22,0.32,1,0,0,2,0,0
+public toilets improve hygiene in kampala,37,30,42,-0.07,0,0,1,0,0,0
+solar disinfection of water proves effective,74,118,5,0.34,1,1,0,3,1,0
+rainwater harvesting gains popularity in uganda,30,10,68,0.57,0,1,1,2,0,0
+studies show water quality impacts health,261,45,42,0.27,0,1,1,3,1,0
+face masks cause water contamination when washed,244,95,24,0.11,1,1,0,1,0,1
+boiled water increases blood acidity,236,9,17,1.09,0,0,1,2,0,1
+natural spring water prevents covid,22,127,61,1.24,1,1,2,0,0,1
+rainwater harvesting gains popularity in uganda,58,98,12,1.4,0,1,2,2,0,0
+east african communities adopt water filtration,127,111,42,0.38,1,1,2,4,1,0
+clean water access has improved in rural kenya,63,59,77,0.91,0,0,0,1,0,0
+unknown,147,86,27,0.16,0,1,2,3,0,0
+studies show water quality impacts health,62,144,17,0.37,1,1,3,1,0,0
+local programs claim sanitation success,53,64,58,0.86,0,1,3,2,0,1
+experts debate the safety of boiling water,62,56,59,-0.28,0,0,3,2,0,1
+experts debate the safety of boiling water,83,105,62,0.11,0,1,2,0,0,0
+experts debate the safety of boiling water,55,8,56,-0.76,1,1,1,3,0,0
+rainwater harvesting gains popularity in uganda,22,21,91,0.64,1,0,3,2,0,0
+experts debate the safety of boiling water,174,140,50,0.63,1,1,1,1,0,1
+ngos distribute water purification tablets,111,88,55,0.48,0,0,1,3,0,0
+drinking bottled water causes kidney failure,289,17,26,-1.03,1,0,0,2,1,1
+mobile apps now report safe borehole locations,267,114,31,0.04,1,1,3,2,1,0
+east african communities adopt water filtration,147,144,8,0.1,1,1,0,2,0,0
+rainwater is safer than treated tap water,172,142,95,-0.52,0,0,0,2,1,1
+vaccines in water are used to track people,120,105,83,1.08,0,1,0,0,0,1
+boiled water increases blood acidity,111,14,91,0.24,0,0,2,2,1,1
+sanitizer causes infertility experts say,26,62,96,-0.69,0,0,0,2,1,1
+unicef supports safe water projects in ethiopia,277,12,67,-0.09,0,0,1,0,1,0
+experts debate the safety of boiling water,191,80,45,-0.13,1,1,3,1,1,0
+solar disinfection of water proves effective,33,31,97,-0.45,0,1,1,1,0,0
+drinking bottled water causes kidney failure,38,136,66,0.48,0,1,3,3,1,1
+western ngos poison wells to reduce population,180,39,25,0.86,0,1,2,2,1,1
+solar disinfection of water proves effective,237,147,7,0.07,1,0,3,2,1,0
+boiled water increases blood acidity,197,81,5,0.44,1,0,3,1,0,1
+chlorinated water is a government mind control tactic,239,76,79,-0.12,1,0,3,2,0,1
+east african communities adopt water filtration,128,75,23,0.26,0,0,3,2,1,0
+experts debate the safety of boiling water,165,37,47,0.51,0,0,1,0,1,1
+western ngos poison wells to reduce population,281,70,93,1.19,0,0,3,2,0,1
+east african communities adopt water filtration,184,47,44,1.06,0,0,0,0,0,0
+safe sanitation is key to public health,113,17,12,0.11,0,1,3,2,0,0
+local programs claim sanitation success,101,143,68,-0.05,1,1,0,2,0,0
+public toilets improve hygiene in kampala,195,38,24,0.04,1,1,2,3,1,0
+proper handwashing reduces cholera outbreaks,292,88,19,0.96,0,0,0,1,1,0
+solar disinfection of water proves effective,190,61,81,-0.02,1,0,1,0,1,0
+experts debate the safety of boiling water,179,140,81,-0.76,1,1,0,0,1,1
+proper handwashing reduces cholera outbreaks,196,108,65,0.03,0,1,1,0,0,0
+proper handwashing reduces cholera outbreaks,184,80,73,0.21,1,1,0,1,1,0
+mobile apps now report safe borehole locations,231,133,44,-0.32,1,0,3,0,1,0
+studies show water quality impacts health,242,76,46,0.83,1,0,2,0,0,0
+using soap daily can cause skin cancer,171,89,62,0.9,1,1,1,0,1,1
+clean water access has improved in rural kenya,143,13,75,0.32,0,1,1,0,1,0
+sanitation drives are working in rural areas,233,94,76,-0.31,1,1,3,4,1,0
+proper handwashing reduces cholera outbreaks,162,53,54,0.53,0,0,3,0,1,0
+chlorinated water is a government mind control tactic,42,131,74,1.24,0,0,0,0,0,1
+vaccines in water are used to track people,64,38,18,0.11,0,0,1,3,0,1
+public toilets improve hygiene in kampala,16,71,34,-0.14,1,0,0,3,0,0
+public toilets improve hygiene in kampala,253,24,52,0.16,1,1,3,3,0,0
+sanitation drives are working in rural areas,135,76,25,0.53,1,0,1,4,1,0
+sanitation drives are working in rural areas,21,119,13,0.81,1,1,2,2,1,0
+mobile apps now report safe borehole locations,25,52,44,0.58,1,1,2,2,1,0
+public toilets improve hygiene in kampala,217,130,43,0.44,0,1,1,3,0,0
+experts debate the safety of boiling water,52,149,87,0.27,0,1,1,1,0,0
+rainwater harvesting gains popularity in uganda,144,95,64,0.56,1,0,3,2,0,0
+studies show water quality impacts health,237,71,50,-0.29,0,0,1,1,0,1
+unicef supports safe water projects in ethiopia,120,61,42,0.43,1,0,1,2,0,0
+proper handwashing reduces cholera outbreaks,169,5,85,0.82,1,1,2,2,1,0
+solar disinfection of water proves effective,273,31,22,0.57,0,0,3,3,0,0
+rainwater harvesting gains popularity in uganda,234,98,55,0.84,0,0,0,2,0,0
+drinking bottled water causes kidney failure,226,137,18,-0.1,0,1,1,3,0,1
+sanitation drives are working in rural areas,54,130,81,0.15,1,1,3,1,0,0
+sanitation drives are working in rural areas,223,75,75,0.15,1,0,3,0,0,0
+government hides real dangers of hand sanitizers,68,58,54,0.27,1,0,2,1,1,1
+sanitation drives are working in rural areas,141,30,91,0.53,0,1,1,1,1,0
+experts debate the safety of boiling water,113,92,91,0.33,1,1,1,1,1,0
+local programs claim sanitation success,204,68,59,0.77,0,1,3,2,1,1
+experts debate the safety of boiling water,166,51,58,0.93,1,1,1,3,0,0
+unicef supports safe water projects in ethiopia,107,88,32,0.18,0,1,2,1,0,0
+chlorinated water is a government mind control tactic,235,126,18,0.06,1,0,2,0,0,1
+east african communities adopt water filtration,214,30,27,0.36,1,1,2,2,1,0
+unknown,88,83,51,0.15,1,0,1,1,1,0
+public toilets improve hygiene in kampala,133,126,48,0.1,1,0,1,4,1,0
+soap brands contain microchips for surveillance,227,149,36,0.12,0,0,2,2,1,1
+studies show water quality impacts health,13,131,25,0.85,1,0,0,3,1,0
+unknown,99,12,98,0.91,0,0,3,1,1,0
+studies show water quality impacts health,113,44,97,0.27,1,1,0,0,1,0
+unknown,128,126,98,0.44,1,1,1,3,1,0
+ngos distribute water purification tablets,142,113,39,0.08,1,1,3,3,0,0
+unknown,105,19,79,0.37,0,1,3,2,1,0
+unicef supports safe water projects in ethiopia,152,80,37,0.52,0,0,1,1,1,0
+new who guidelines promote water boiling,297,128,76,-0.23,1,1,0,1,0,0
+clean water access has improved in rural kenya,37,142,86,0.31,0,1,0,2,1,0
+rainwater harvesting gains popularity in uganda,287,16,53,0.87,0,1,0,0,1,0
+more east african homes now use filtration,242,57,21,-0.11,0,0,0,0,0,0
+public toilets improve hygiene in kampala,26,71,15,0.53,0,1,2,0,0,0
+natural spring water prevents covid,68,108,27,0.15,1,0,3,3,0,1
+solar disinfection of water proves effective,99,22,34,0.16,0,1,0,1,1,0
+rainwater harvesting gains popularity in uganda,208,71,59,0.7,1,1,1,1,0,0
+rainwater harvesting gains popularity in uganda,35,7,44,0.96,1,0,2,0,1,0
+local programs claim sanitation success,34,58,45,-0.33,0,1,3,0,0,1
+experts debate the safety of boiling water,276,110,71,-0.07,1,1,1,0,0,1
+solar disinfection of water proves effective,190,12,54,-0.06,0,1,2,3,0,0
+sanitation drives are working in rural areas,77,15,85,0.59,1,1,3,4,1,0
+studies show water quality impacts health,58,118,84,0.45,1,0,1,1,1,1
+local programs claim sanitation success,184,1,25,0.79,1,1,3,2,0,0
+unicef supports safe water projects in ethiopia,61,144,84,0.76,0,1,2,1,1,0
+mobile apps now report safe borehole locations,111,29,24,-0.15,0,1,0,3,1,0
+clean water access has improved in rural kenya,225,102,64,0.61,0,0,2,0,0,0
+experts debate the safety of boiling water,197,12,5,-0.31,0,1,1,0,1,1
+soap brands contain microchips for surveillance,66,95,22,-0.13,1,1,0,3,1,1
+local programs claim sanitation success,56,93,63,0.25,1,0,3,3,1,0
+safe sanitation is key to public health,168,81,86,-0.09,0,1,3,0,0,0
+experts debate the safety of boiling water,183,12,42,0.44,1,1,3,3,0,1
+drinking bottled water causes kidney failure,251,93,22,-0.15,0,1,2,3,0,1
+unknown,291,148,95,-0.34,0,0,3,3,1,0
+tap water linked to reduced iq,250,111,29,0.53,0,1,3,1,0,1
+natural spring water prevents covid,14,54,76,-0.88,0,1,3,0,1,1
+vaccines in water are used to track people,93,80,17,0.25,1,0,2,0,1,1
+rainwater harvesting gains popularity in uganda,257,115,86,0.1,1,1,1,2,1,0
+solar disinfection of water proves effective,63,142,78,0.46,0,0,0,3,0,0
+boiled water increases blood acidity,170,107,96,0.29,0,0,3,0,1,1
+east african communities adopt water filtration,235,52,20,0.94,0,0,2,0,1,0
+local programs claim sanitation success,24,127,56,-0.08,1,0,3,0,0,1
+public toilets improve hygiene in kampala,233,56,22,0.94,1,1,0,1,0,0
+unicef supports safe water projects in ethiopia,70,51,90,-0.1,1,1,1,1,0,0
+local programs claim sanitation success,131,136,44,0.79,1,1,1,1,0,0
+solar disinfection of water proves effective,286,110,43,0.36,1,0,3,3,1,0
+drinking bottled water causes kidney failure,55,0,81,0.65,1,1,0,2,0,1
+unknown,71,43,87,0.7,1,0,3,3,1,1
+face masks cause water contamination when washed,95,74,46,0.01,1,1,1,3,0,1
+public toilets improve hygiene in kampala,219,97,39,0.46,0,1,2,1,1,0
+solar disinfection of water proves effective,87,8,50,-0.29,0,1,2,0,0,0
+solar disinfection of water proves effective,211,31,41,-0.37,1,1,2,3,1,0
+ngos distribute water purification tablets,232,14,6,0.45,1,0,0,2,0,0
+local programs claim sanitation success,231,139,49,0.35,0,0,0,2,1,0
+east african communities adopt water filtration,12,135,47,0.49,1,0,1,1,1,0
+east african communities adopt water filtration,15,71,83,0.69,1,0,0,4,0,0
+mobile apps now report safe borehole locations,102,11,90,0.98,0,1,1,3,1,0
+local programs claim sanitation success,17,64,5,-0.61,0,1,1,3,1,1
+unknown,244,106,90,0.91,0,0,3,3,0,1
+public toilets improve hygiene in kampala,117,41,8,-0.24,1,0,2,3,1,0
+clean water access has improved in rural kenya,170,114,56,0.13,1,1,2,1,0,0
+sanitizer causes infertility experts say,218,138,30,-0.32,1,1,1,0,1,1
+more east african homes now use filtration,249,102,20,0.24,1,1,0,1,1,0
+studies show water quality impacts health,59,94,89,0.26,0,0,1,0,1,1
+boiled water increases blood acidity,20,16,39,-0.04,1,0,2,3,0,1
+mobile apps now report safe borehole locations,165,84,44,0.2,0,0,3,3,1,0
+studies show water quality impacts health,79,55,76,0.41,0,0,2,0,0,0
+solar disinfection of water proves effective,178,133,48,0.44,1,1,1,2,0,0
+rainwater harvesting gains popularity in uganda,281,85,86,0.26,0,0,1,0,0,0
+new who guidelines promote water boiling,77,101,19,0.33,1,1,2,1,0,0
+sanitizer causes infertility experts say,261,53,91,0.71,0,1,2,0,1,1
+ngos distribute water purification tablets,57,114,16,0.4,1,0,0,4,1,0
+east african communities adopt water filtration,193,138,27,0.95,0,0,3,3,0,0
+western ngos poison wells to reduce population,196,87,40,-0.59,0,1,2,1,0,1
+ngos distribute water purification tablets,99,48,65,0.94,0,1,3,2,1,0
+local programs claim sanitation success,148,148,24,0.36,1,1,3,2,1,0
+rainwater harvesting gains popularity in uganda,98,114,57,1.09,1,1,0,2,0,0
+sanitation drives are working in rural areas,283,62,40,-0.19,0,0,1,3,0,0
+proper handwashing reduces cholera outbreaks,28,103,5,0.11,1,0,3,3,0,0
+east african communities adopt water filtration,163,82,74,0.13,1,0,3,2,0,0
+solar disinfection of water proves effective,269,102,37,0.29,1,0,3,1,0,0
+natural spring water prevents covid,117,16,5,0.62,0,0,3,0,0,1
+mobile apps now report safe borehole locations,294,5,44,-0.07,1,0,1,3,1,0
+western ngos poison wells to reduce population,68,146,74,1.24,0,1,0,1,1,1
+tap water linked to reduced iq,134,27,13,0.93,0,1,3,1,1,1
+proper handwashing reduces cholera outbreaks,282,37,65,0.24,1,0,2,3,0,0
+sanitizer causes infertility experts say,116,118,39,0.42,1,0,1,2,1,1
+mobile apps now report safe borehole locations,254,36,2,-0.13,0,1,0,0,0,0
+soap brands contain microchips for surveillance,256,114,98,-0.2,0,0,2,3,0,1
+rainwater harvesting gains popularity in uganda,17,67,96,1.18,1,0,2,1,0,0
+safe sanitation is key to public health,150,42,23,0.4,1,1,2,3,0,0
+solar disinfection of water proves effective,17,57,18,0.47,1,1,3,0,1,0
+using soap daily can cause skin cancer,103,12,17,0.97,1,0,3,3,1,1
+boiled water increases blood acidity,48,51,63,-0.1,0,0,2,1,1,1
+studies show water quality impacts health,90,57,87,0.51,0,1,0,2,1,0
+face masks cause water contamination when washed,196,31,34,0.01,0,1,3,3,0,1
+using soap daily can cause skin cancer,93,104,61,-0.44,0,0,0,2,0,1
+ngos distribute water purification tablets,97,82,0,0.45,1,1,3,1,1,0
+local programs claim sanitation success,251,98,99,0.12,0,1,3,3,0,0
+unicef supports safe water projects in ethiopia,102,103,24,0.68,1,1,3,2,1,0
+east african communities adopt water filtration,95,27,44,0.62,0,1,0,1,0,0
+chlorinated water is a government mind control tactic,53,128,48,-1.21,1,0,3,1,1,1
+east african communities adopt water filtration,146,47,97,0.03,1,0,0,3,0,0
+natural spring water prevents covid,83,39,88,0.2,1,0,3,1,1,1
+sanitation drives are working in rural areas,45,96,15,0.77,1,1,1,0,1,0
+boiled water increases blood acidity,110,113,97,0.47,1,0,3,1,1,1
+western ngos poison wells to reduce population,165,131,92,-0.49,1,0,2,0,0,1
+public toilets improve hygiene in kampala,264,136,18,0.08,1,1,0,1,0,0
+boiled water increases blood acidity,180,110,22,-0.24,0,0,1,2,1,1
+local programs claim sanitation success,225,143,82,0.1,0,0,0,3,1,0
+chlorinated water is a government mind control tactic,179,75,24,-0.54,0,1,3,1,1,1
+public toilets improve hygiene in kampala,261,30,15,-0.1,1,0,2,4,0,0
+experts debate the safety of boiling water,64,118,53,0.32,1,0,2,1,1,1
+solar disinfection of water proves effective,100,141,72,0.2,1,0,2,2,0,0
+mobile apps now report safe borehole locations,287,24,0,0.91,1,1,3,3,0,0
+western ngos poison wells to reduce population,110,33,41,-0.21,1,0,3,0,0,1
+clean water access has improved in rural kenya,164,66,18,0.36,1,1,2,0,0,0
+more east african homes now use filtration,150,117,96,1.02,0,1,3,2,0,0
+rainwater harvesting gains popularity in uganda,182,72,33,0.6,0,1,3,2,0,0
+solar disinfection of water proves effective,19,25,79,0.62,1,0,1,1,0,0
+more east african homes now use filtration,237,147,54,0.45,1,1,3,1,1,0
+studies show water quality impacts health,274,103,17,-0.07,0,1,1,1,1,0
+ngos distribute water purification tablets,257,9,33,0.42,1,1,2,2,0,0
+local programs claim sanitation success,256,66,88,0.29,1,0,0,1,1,0
+tap water linked to reduced iq,164,4,44,-0.92,0,0,3,1,1,1
+mobile apps now report safe borehole locations,43,26,5,1.24,1,1,2,2,1,0
+using soap daily can cause skin cancer,138,112,20,0.06,0,1,2,0,1,1
+public toilets improve hygiene in kampala,169,14,69,1.04,0,1,3,1,0,0
+water kiosks now serve clean water in nairobi,98,104,95,-0.03,1,1,0,2,0,0
+face masks cause water contamination when washed,102,43,47,0.28,0,1,0,1,1,1
+ngos distribute water purification tablets,250,25,38,0.71,1,1,3,2,1,0
+unknown,126,94,30,0.15,1,1,2,2,0,0
+studies show water quality impacts health,103,83,9,-0.18,0,1,3,0,0,1
+boiling water damages your organs,172,139,29,0.29,0,0,0,2,1,1
+sanitizer causes infertility experts say,108,131,17,0.39,0,1,3,1,1,1
+chlorinated water is a government mind control tactic,122,86,59,-0.09,0,1,2,2,0,1
+boiled water increases blood acidity,100,111,87,0.69,0,1,0,2,0,1
+unicef supports safe water projects in ethiopia,215,128,72,0.16,0,1,0,3,0,0
+chlorinated water is a government mind control tactic,26,88,94,0.23,0,0,0,0,0,1
+sanitizer causes infertility experts say,283,65,14,0.61,0,1,2,1,1,1
+unicef supports safe water projects in ethiopia,182,130,3,0.24,1,1,3,1,0,0
+proper handwashing reduces cholera outbreaks,125,121,62,0.51,1,1,0,0,0,0
+unicef supports safe water projects in ethiopia,190,148,39,0.42,0,1,2,2,1,0
+using soap daily can cause skin cancer,100,83,8,0.42,0,0,2,2,1,1
+local programs claim sanitation success,91,115,8,0.7,1,0,1,3,0,1
+new who guidelines promote water boiling,123,115,25,0.39,0,1,0,1,1,0
+proper handwashing reduces cholera outbreaks,266,37,3,-0.2,1,1,2,0,0,0
+safe sanitation is key to public health,67,142,80,0.57,0,0,3,1,0,0
+sanitation drives are working in rural areas,163,109,15,0.05,1,0,2,1,0,0
+mobile apps now report safe borehole locations,125,45,14,0.19,0,0,2,3,0,0
+solar disinfection of water proves effective,275,24,98,1.26,0,1,1,1,1,0
+government hides real dangers of hand sanitizers,212,20,51,1.02,1,0,0,3,1,1
+water kiosks now serve clean water in nairobi,50,120,68,0.06,1,1,2,3,0,0
+vaccines in water are used to track people,114,121,4,-0.31,0,1,3,0,1,1
+local programs claim sanitation success,202,132,19,0.38,1,0,1,2,0,0
+mobile apps now report safe borehole locations,287,69,78,0.27,1,0,2,3,0,0
+ngos distribute water purification tablets,246,112,17,0.26,1,0,3,2,1,0
+public toilets improve hygiene in kampala,230,106,1,0.57,1,0,0,1,1,0
+rainwater is safer than treated tap water,77,111,92,0.09,0,0,1,2,1,1
+east african communities adopt water filtration,206,107,12,-0.13,1,1,2,1,0,0
+western ngos poison wells to reduce population,265,46,3,0.44,0,0,1,2,1,1
+new who guidelines promote water boiling,148,90,41,0.32,1,1,3,0,1,0
+soap brands contain microchips for surveillance,158,17,73,-0.09,0,0,0,1,1,1
+new who guidelines promote water boiling,108,148,60,0.46,1,1,0,1,0,0
+face masks cause water contamination when washed,85,103,94,0.13,0,0,0,2,1,1
+government hides real dangers of hand sanitizers,291,39,7,0.84,0,0,0,2,0,1
+sanitation drives are working in rural areas,118,137,66,0.5,0,0,2,2,0,0
+solar disinfection of water proves effective,197,88,62,1.04,0,1,3,3,0,0
+rainwater is safer than treated tap water,208,60,8,0.19,1,0,1,2,0,1
+western ngos poison wells to reduce population,163,4,93,0.39,0,0,2,2,0,1
+unicef supports safe water projects in ethiopia,49,121,10,0.52,0,1,1,2,1,0
+face masks cause water contamination when washed,142,54,98,0.3,0,1,0,3,1,1
+local programs claim sanitation success,141,36,41,0.16,0,0,3,0,0,1
+chlorinated water is a government mind control tactic,288,55,12,0.41,0,0,2,2,1,1
+filtered water removes essential nutrients,93,101,35,-0.24,1,0,1,3,1,1
+vaccines in water are used to track people,251,92,12,0.31,0,0,1,0,0,1
+water kiosks now serve clean water in nairobi,125,72,11,-0.15,1,1,2,1,0,0
+sanitation drives are working in rural areas,118,58,36,0.12,1,0,1,1,0,0
+clean water access has improved in rural kenya,230,1,73,0.19,1,1,1,1,0,0
+filtered water removes essential nutrients,50,103,72,0.18,0,1,2,1,0,1
+government hides real dangers of hand sanitizers,156,50,51,-0.13,0,1,3,3,0,1
+experts debate the safety of boiling water,121,29,70,0.2,0,0,2,1,0,0
+face masks cause water contamination when washed,112,10,1,0.39,0,0,2,0,1,1
+western ngos poison wells to reduce population,55,107,55,0.41,0,1,3,1,0,1
+rainwater harvesting gains popularity in uganda,280,75,59,0.88,1,1,1,3,0,0
+experts debate the safety of boiling water,204,89,22,0.64,0,0,2,0,0,0
+public toilets improve hygiene in kampala,289,122,39,0.23,0,1,1,3,1,0
+local programs claim sanitation success,292,124,63,0.6,0,1,1,3,0,0
+clean water access has improved in rural kenya,49,121,84,0.12,1,0,1,1,0,0
+rainwater harvesting gains popularity in uganda,198,93,22,0.5,0,1,2,1,0,0
+public toilets improve hygiene in kampala,173,102,28,0.4,0,1,3,1,1,0
+unicef supports safe water projects in ethiopia,33,30,77,0.14,0,1,0,3,1,0
+east african communities adopt water filtration,33,51,89,0.23,0,0,3,4,0,0
+proper handwashing reduces cholera outbreaks,13,88,50,0.55,0,1,2,1,0,0
+government hides real dangers of hand sanitizers,299,75,68,-0.35,0,0,3,1,1,1
+new who guidelines promote water boiling,190,128,94,0.64,1,0,0,2,1,0
+vaccines in water are used to track people,257,21,88,0.77,1,1,3,1,1,1
+filtered water removes essential nutrients,125,39,30,-0.83,0,0,2,3,0,1
+more east african homes now use filtration,288,100,49,0.57,1,1,1,2,0,0
+boiling water damages your organs,78,110,19,0.6,1,1,0,2,0,1
+unicef supports safe water projects in ethiopia,263,128,54,0.44,1,1,3,2,0,0
+safe sanitation is key to public health,190,64,80,0.04,1,0,2,2,1,0
+east african communities adopt water filtration,178,148,1,0.66,0,1,0,1,1,0
+east african communities adopt water filtration,258,78,24,0.75,0,0,0,2,1,0
+mobile apps now report safe borehole locations,197,21,12,0.38,1,1,3,2,0,0
+solar disinfection of water proves effective,63,98,91,0.3,1,1,2,1,1,0
+safe sanitation is key to public health,147,7,69,0.25,1,0,2,1,1,0
+solar disinfection of water proves effective,177,16,66,0.29,1,1,0,2,0,0
+local programs claim sanitation success,112,16,57,0.56,0,0,0,0,1,0
+safe sanitation is key to public health,94,89,98,0.4,1,0,1,2,0,0
+public toilets improve hygiene in kampala,221,140,81,1.28,1,0,3,0,0,0
+soap brands contain microchips for surveillance,12,144,74,0.7,0,1,1,4,1,1
+studies show water quality impacts health,188,80,83,0.6,1,1,0,2,0,0
+local programs claim sanitation success,47,77,63,0.22,1,0,0,1,1,0
+water kiosks now serve clean water in nairobi,248,5,68,0.82,0,1,2,3,0,0
+government hides real dangers of hand sanitizers,178,109,82,0.2,0,0,2,2,0,1
+boiled water increases blood acidity,39,13,85,0.36,0,1,1,2,0,1
+western ngos poison wells to reduce population,199,71,58,0.04,1,0,0,0,0,1
+sanitation drives are working in rural areas,34,142,59,0.49,0,1,3,0,0,0
+vaccines in water are used to track people,121,53,82,-0.11,0,0,2,1,0,1
+tap water linked to reduced iq,215,26,61,-0.18,0,0,2,1,1,1
+soap brands contain microchips for surveillance,194,12,15,0.75,0,1,0,2,0,1
+experts debate the safety of boiling water,56,59,87,-0.16,0,1,3,0,0,1
+unknown,237,5,67,0.67,0,0,1,0,0,1
+water kiosks now serve clean water in nairobi,48,57,14,0.46,1,1,3,0,0,0
+unknown,25,48,88,0.51,0,1,0,1,0,0
+new who guidelines promote water boiling,31,25,54,1.61,0,0,3,3,1,0
+studies show water quality impacts health,222,46,34,0.65,0,1,3,2,1,0
+unicef supports safe water projects in ethiopia,158,4,54,0.05,0,0,0,3,1,0
+east african communities adopt water filtration,250,19,13,-0.56,1,1,1,3,0,0
+ngos distribute water purification tablets,281,133,48,-0.25,1,0,3,2,1,0
+filtered water removes essential nutrients,68,58,82,0.13,0,0,0,0,1,1
+government hides real dangers of hand sanitizers,296,145,99,-0.39,1,1,3,3,0,1
+public toilets improve hygiene in kampala,211,131,6,0.07,1,1,0,3,0,0
+new who guidelines promote water boiling,41,16,29,0.33,1,1,1,2,1,0
+vaccines in water are used to track people,171,13,82,-0.06,1,0,2,2,1,1
+rainwater harvesting gains popularity in uganda,264,12,48,0.18,1,1,1,1,1,0
+local programs claim sanitation success,263,134,88,0.11,1,1,2,0,1,1
+studies show water quality impacts health,18,127,15,0.67,1,0,2,2,1,0
+local programs claim sanitation success,148,43,50,0.37,1,0,3,1,0,0
+chlorinated water is a government mind control tactic,19,118,71,-1.14,1,0,0,0,1,1
+water kiosks now serve clean water in nairobi,223,142,81,-0.27,0,1,0,1,1,0
+unknown,282,18,91,0.6,0,1,0,3,0,0
+boiling water damages your organs,57,62,79,0.59,1,0,1,0,1,1
+unicef supports safe water projects in ethiopia,120,80,82,0.49,1,0,1,3,0,0
+sanitation drives are working in rural areas,162,146,41,0.76,0,1,1,0,0,0
+natural spring water prevents covid,132,147,16,0.56,1,0,1,0,0,1
+clean water access has improved in rural kenya,111,99,62,1.22,1,0,3,0,0,0
+government hides real dangers of hand sanitizers,250,121,44,0.85,1,1,3,1,0,1
+east african communities adopt water filtration,200,43,76,0.19,0,1,2,0,1,0
+east african communities adopt water filtration,226,103,6,0.13,1,1,2,2,1,0
+east african communities adopt water filtration,60,60,26,-0.36,1,0,0,0,0,0
+studies show water quality impacts health,90,124,9,0.27,0,1,1,2,0,0
+sanitizer causes infertility experts say,97,144,33,0.47,1,0,3,2,0,1
+using soap daily can cause skin cancer,203,70,35,0.57,0,0,2,0,0,1
+east african communities adopt water filtration,113,106,24,0.24,0,0,0,0,1,0
+face masks cause water contamination when washed,280,49,5,0.17,0,1,0,2,1,1
+local programs claim sanitation success,105,64,23,0.49,1,0,1,4,1,0
+east african communities adopt water filtration,207,98,17,0.23,0,1,1,1,1,0
+natural spring water prevents covid,10,31,86,-0.71,1,0,0,0,0,1
+unicef supports safe water projects in ethiopia,176,140,5,1.04,1,1,1,3,1,0
+east african communities adopt water filtration,135,57,28,0.66,1,1,1,0,0,0
+local programs claim sanitation success,90,127,24,0.97,0,0,2,0,1,1
+ngos distribute water purification tablets,260,141,54,1.22,1,0,2,3,0,0
+studies show water quality impacts health,178,111,80,0.43,1,1,2,2,0,0
+ngos distribute water purification tablets,82,67,45,0.23,1,0,3,1,0,0
+more east african homes now use filtration,150,39,23,0.88,1,1,1,3,0,0
+natural spring water prevents covid,79,143,74,0.19,0,1,2,0,1,1
+experts debate the safety of boiling water,271,131,25,0.58,0,0,2,3,0,0
+rainwater harvesting gains popularity in uganda,254,89,97,-0.08,0,0,0,4,1,0
+boiling water damages your organs,12,27,27,0.26,0,1,2,1,1,1
+local programs claim sanitation success,72,95,2,0.45,0,1,0,2,1,0
+studies show water quality impacts health,58,30,74,0.68,1,1,1,2,1,0
+mobile apps now report safe borehole locations,85,2,37,0.88,1,1,0,3,1,0
+western ngos poison wells to reduce population,184,135,60,0.12,0,1,2,1,0,1
+sanitizer causes infertility experts say,118,23,77,0.5,0,1,3,1,0,1
+local programs claim sanitation success,192,14,50,1.34,0,0,3,1,0,0
+unknown,201,44,89,-0.07,0,1,1,1,0,1
+safe sanitation is key to public health,74,7,47,-0.09,1,1,2,1,1,0
+experts debate the safety of boiling water,280,70,20,-0.36,0,1,1,0,1,0
+solar disinfection of water proves effective,109,107,53,0.27,0,0,0,1,0,0
+more east african homes now use filtration,41,114,55,0.03,1,0,1,1,0,0
+unicef supports safe water projects in ethiopia,137,102,93,0.38,0,0,3,0,0,0
+local programs claim sanitation success,52,124,58,0.07,1,1,1,2,0,0
+east african communities adopt water filtration,87,56,71,0.27,1,1,0,1,0,0
+ngos distribute water purification tablets,298,29,50,0.46,1,1,2,0,1,0
+proper handwashing reduces cholera outbreaks,279,145,19,0.63,1,1,1,1,0,0
+east african communities adopt water filtration,171,113,95,0.22,0,0,0,2,0,0
+solar disinfection of water proves effective,198,116,85,0.65,0,0,3,1,1,0
+local programs claim sanitation success,256,59,58,-0.21,1,0,2,3,1,1
+unicef supports safe water projects in ethiopia,225,97,70,0.23,1,1,1,3,0,0
+chlorinated water is a government mind control tactic,177,125,8,0.63,1,1,1,0,1,1
+local programs claim sanitation success,202,93,0,0.72,1,1,3,2,0,0
+boiling water damages your organs,292,133,28,-0.49,1,0,1,1,1,1
+experts debate the safety of boiling water,22,121,62,0.38,0,1,3,2,0,0
+sanitizer causes infertility experts say,249,107,71,-0.78,0,0,3,4,0,1
+tap water linked to reduced iq,156,3,55,-0.87,0,1,2,1,0,1
+new who guidelines promote water boiling,213,92,67,0.13,0,1,3,2,1,0
+public toilets improve hygiene in kampala,89,5,34,0.05,0,1,3,0,0,0
+safe sanitation is key to public health,52,31,2,0.96,1,0,3,1,1,0
+east african communities adopt water filtration,98,105,6,0.0,1,0,1,2,1,0
+safe sanitation is key to public health,157,145,26,0.18,0,1,3,3,0,0
+boiling water damages your organs,104,14,0,-0.93,0,1,3,1,0,1
+studies show water quality impacts health,160,121,90,0.84,0,0,3,1,1,0
+unicef supports safe water projects in ethiopia,11,95,79,0.58,0,0,3,1,1,0
+local programs claim sanitation success,31,5,70,0.21,1,1,1,0,1,1
+local programs claim sanitation success,16,111,43,0.5,0,1,3,1,0,0
+rainwater is safer than treated tap water,215,119,86,-0.21,0,0,0,2,0,1
+sanitation drives are working in rural areas,123,122,40,0.31,0,0,0,1,0,0
+new who guidelines promote water boiling,281,66,74,0.98,1,1,0,3,0,0
+safe sanitation is key to public health,92,105,41,0.17,0,1,2,1,0,0
+clean water access has improved in rural kenya,188,138,32,0.26,1,1,0,2,0,0
+more east african homes now use filtration,219,42,49,-0.28,1,1,0,0,1,0
+unknown,133,144,62,0.89,0,0,2,2,0,0
+studies show water quality impacts health,122,95,99,0.46,0,1,1,1,0,1
+sanitation drives are working in rural areas,21,131,36,0.42,1,0,1,2,1,0
+east african communities adopt water filtration,135,80,58,0.06,0,1,2,1,0,0
+experts debate the safety of boiling water,62,40,80,0.66,1,0,1,2,0,0
+unicef supports safe water projects in ethiopia,292,132,98,0.24,1,1,2,0,1,0
+rainwater harvesting gains popularity in uganda,149,34,47,-0.62,0,1,3,2,0,0
+mobile apps now report safe borehole locations,106,21,4,0.61,1,1,1,3,0,0
+local programs claim sanitation success,14,149,47,1.13,0,1,2,2,0,0
+clean water access has improved in rural kenya,66,111,95,1.28,0,1,3,1,0,0
+experts debate the safety of boiling water,78,10,2,0.56,1,0,3,2,1,0
+more east african homes now use filtration,127,2,46,1.03,1,1,0,1,1,0
+solar disinfection of water proves effective,68,136,61,0.28,1,0,2,2,1,0
+water kiosks now serve clean water in nairobi,42,59,98,0.75,1,1,2,1,1,0
+ngos distribute water purification tablets,59,75,13,0.32,1,0,0,1,1,0
+water kiosks now serve clean water in nairobi,28,86,62,0.24,0,0,1,2,1,0
+unknown,223,13,60,0.73,0,0,2,1,0,0
+ngos distribute water purification tablets,206,17,30,0.07,0,1,3,1,1,0
+rainwater harvesting gains popularity in uganda,56,112,94,0.24,0,0,2,1,1,0
+soap brands contain microchips for surveillance,176,72,16,0.33,1,0,0,2,1,1
+proper handwashing reduces cholera outbreaks,298,22,23,0.52,1,0,2,2,0,0
+rainwater harvesting gains popularity in uganda,150,82,22,0.25,1,0,1,3,0,0
+unicef supports safe water projects in ethiopia,93,124,81,0.05,0,0,0,3,0,0
+unknown,191,68,49,0.54,0,1,0,3,0,0
+studies show water quality impacts health,88,46,77,0.79,1,1,3,2,1,0
+studies show water quality impacts health,224,115,78,0.61,0,1,2,2,1,0
+natural spring water prevents covid,23,29,78,-0.09,0,0,0,3,1,1
+ngos distribute water purification tablets,224,24,69,0.64,0,1,1,2,0,0
+more east african homes now use filtration,137,111,26,-0.43,0,1,1,2,1,0
+unicef supports safe water projects in ethiopia,257,24,14,0.51,1,1,1,3,0,0
+experts debate the safety of boiling water,38,73,49,0.94,0,1,3,2,1,0
+east african communities adopt water filtration,289,57,35,0.64,1,0,1,2,0,0
+local programs claim sanitation success,211,93,7,-0.29,0,1,3,2,1,0
+unknown,66,118,78,1.21,1,0,1,2,1,0
+rainwater is safer than treated tap water,227,126,2,0.38,0,1,2,2,0,1
+public toilets improve hygiene in kampala,71,24,61,0.51,0,0,1,2,0,0
+local programs claim sanitation success,166,77,46,0.5,0,0,1,2,0,0
+more east african homes now use filtration,211,98,76,0.79,0,1,3,1,0,0
+solar disinfection of water proves effective,26,115,97,0.1,0,1,2,2,0,0
+experts debate the safety of boiling water,15,47,87,0.3,0,1,2,0,0,0
+tap water linked to reduced iq,67,9,95,-0.23,1,0,3,2,0,1
+filtered water removes essential nutrients,178,98,60,-0.39,1,1,2,1,1,1
+natural spring water prevents covid,91,10,31,-0.13,0,0,1,1,0,1
+mobile apps now report safe borehole locations,228,84,93,0.47,1,1,1,0,0,0
+filtered water removes essential nutrients,186,148,12,-0.38,1,1,2,0,1,1
+proper handwashing reduces cholera outbreaks,213,134,0,-0.24,1,0,1,0,1,0
+clean water access has improved in rural kenya,80,125,33,0.12,0,0,2,1,0,0
+new who guidelines promote water boiling,275,63,61,0.89,1,1,3,1,0,0
+drinking bottled water causes kidney failure,107,1,78,0.01,0,0,3,3,1,1
+public toilets improve hygiene in kampala,217,75,77,0.28,0,1,3,2,0,0
+proper handwashing reduces cholera outbreaks,11,120,92,0.28,1,1,0,2,0,0
+water kiosks now serve clean water in nairobi,133,41,97,0.57,0,0,1,2,0,0
+clean water access has improved in rural kenya,289,53,81,0.28,1,1,3,3,0,0
+ngos distribute water purification tablets,83,74,70,0.3,0,1,2,2,1,0
+experts debate the safety of boiling water,175,15,92,-0.08,1,1,2,1,0,0
+mobile apps now report safe borehole locations,31,17,30,0.34,1,1,3,3,0,0
+rainwater harvesting gains popularity in uganda,163,89,63,0.21,0,1,3,4,1,0
+solar disinfection of water proves effective,228,143,24,0.56,1,1,3,0,0,0
+ngos distribute water purification tablets,166,5,37,0.54,0,0,2,1,0,0
+new who guidelines promote water boiling,239,107,13,0.26,0,1,0,2,0,0
+unknown,29,47,7,-0.38,0,0,3,2,0,0
+water kiosks now serve clean water in nairobi,50,41,90,0.12,0,0,2,0,0,0
+rainwater harvesting gains popularity in uganda,157,75,53,0.42,1,1,2,2,1,0
+clean water access has improved in rural kenya,117,76,1,0.66,0,0,3,0,1,0
+tap water linked to reduced iq,93,131,80,0.5,0,1,1,2,0,1
+experts debate the safety of boiling water,299,129,77,0.36,0,0,2,0,0,0
+rainwater harvesting gains popularity in uganda,143,58,88,0.98,1,1,1,3,0,0
+solar disinfection of water proves effective,216,26,55,0.34,1,1,1,3,0,0
+local programs claim sanitation success,292,78,93,1.14,1,0,0,3,1,0
+safe sanitation is key to public health,275,71,92,0.19,0,1,2,1,1,0
+local programs claim sanitation success,82,6,83,0.62,0,1,0,1,0,0
+unknown,57,110,84,0.41,1,1,3,2,0,0
+water kiosks now serve clean water in nairobi,242,118,60,0.05,0,0,0,2,1,0
+local programs claim sanitation success,109,62,21,-0.44,1,1,3,1,1,1
+drinking bottled water causes kidney failure,68,123,34,0.29,0,0,1,3,0,1
+water kiosks now serve clean water in nairobi,267,11,15,0.26,0,1,2,3,0,0
+unicef supports safe water projects in ethiopia,74,140,49,-0.12,0,0,0,2,0,0
+natural spring water prevents covid,92,42,42,0.65,0,1,2,3,0,1
+solar disinfection of water proves effective,163,16,16,-0.19,1,0,1,0,1,0
+new who guidelines promote water boiling,275,62,79,0.42,0,0,1,1,0,0
+sanitizer causes infertility experts say,88,119,57,-0.31,0,1,1,1,1,1
+water kiosks now serve clean water in nairobi,159,35,1,0.4,0,1,1,1,0,0
+experts debate the safety of boiling water,57,7,3,0.64,0,1,1,2,1,0
+chlorinated water is a government mind control tactic,257,68,84,-0.57,0,1,1,2,0,1
+sanitation drives are working in rural areas,287,89,38,0.29,0,1,0,3,0,0
+sanitation drives are working in rural areas,107,35,97,0.15,1,1,2,0,0,0
+safe sanitation is key to public health,34,27,93,-0.02,1,0,0,2,1,0
+western ngos poison wells to reduce population,293,117,5,-0.39,0,0,1,3,1,1
+rainwater is safer than treated tap water,77,92,80,-0.1,1,1,3,1,1,1
+boiled water increases blood acidity,16,75,88,0.01,1,1,3,0,0,1
+solar disinfection of water proves effective,146,100,68,-0.56,0,0,1,2,1,0
+government hides real dangers of hand sanitizers,173,143,68,-0.63,0,0,1,4,1,1
+soap brands contain microchips for surveillance,92,13,19,-0.11,1,0,1,3,0,1
+more east african homes now use filtration,147,70,63,0.57,1,1,2,2,1,0
+filtered water removes essential nutrients,82,123,15,0.28,1,0,2,2,1,1
+drinking bottled water causes kidney failure,246,124,50,-0.25,0,0,0,2,0,1
+studies show water quality impacts health,55,36,36,0.02,1,1,2,1,1,0
+safe sanitation is key to public health,115,28,72,0.67,0,0,1,3,0,0
+sanitation drives are working in rural areas,297,142,68,0.34,1,1,2,0,1,0
+rainwater harvesting gains popularity in uganda,271,18,41,0.36,1,1,3,2,1,0
+clean water access has improved in rural kenya,185,105,56,0.21,1,0,3,1,1,0
+rainwater harvesting gains popularity in uganda,175,20,65,0.34,0,1,1,0,1,0
+experts debate the safety of boiling water,154,63,8,-0.33,0,0,2,0,0,1
+chlorinated water is a government mind control tactic,292,26,99,0.09,0,1,2,1,0,1
+natural spring water prevents covid,63,54,85,0.89,1,1,0,1,0,1
+new who guidelines promote water boiling,187,28,63,0.43,1,0,0,4,0,0
+mobile apps now report safe borehole locations,253,147,85,0.17,0,1,3,2,1,0
+public toilets improve hygiene in kampala,136,24,21,-0.65,0,1,1,2,0,0
+studies show water quality impacts health,280,69,33,-0.12,0,1,3,1,0,0
+government hides real dangers of hand sanitizers,141,62,54,0.69,1,1,1,2,0,1
+tap water linked to reduced iq,102,129,28,0.62,0,1,1,1,0,1
+proper handwashing reduces cholera outbreaks,82,149,37,-0.15,0,1,1,0,1,0
+sanitation drives are working in rural areas,257,15,96,0.79,0,1,1,2,0,0
+sanitizer causes infertility experts say,282,145,17,-0.61,1,0,2,1,0,1
+local programs claim sanitation success,52,99,70,0.35,0,1,1,2,1,0
+chlorinated water is a government mind control tactic,50,29,64,0.89,1,1,2,2,0,1
+unknown,179,44,96,0.24,0,0,1,0,1,0
+mobile apps now report safe borehole locations,221,18,0,0.69,1,1,2,2,0,0
+proper handwashing reduces cholera outbreaks,177,33,87,0.42,0,1,2,2,1,0
+mobile apps now report safe borehole locations,48,140,3,-0.09,0,1,3,2,0,0
+mobile apps now report safe borehole locations,254,61,3,0.36,0,0,3,1,1,0
+east african communities adopt water filtration,160,117,81,1.12,1,0,0,3,0,0
+east african communities adopt water filtration,120,99,26,0.74,1,0,3,2,1,0
+more east african homes now use filtration,56,21,42,0.58,1,0,3,3,1,0
+local programs claim sanitation success,72,110,58,-0.11,0,1,1,1,1,1
+solar disinfection of water proves effective,234,72,31,0.13,1,0,0,0,1,0
+mobile apps now report safe borehole locations,78,146,32,0.09,0,1,3,2,0,0
+east african communities adopt water filtration,299,37,27,0.25,0,0,3,3,1,0
+unicef supports safe water projects in ethiopia,212,69,54,0.62,1,1,2,3,1,0
+sanitation drives are working in rural areas,70,115,99,0.58,1,0,0,2,1,0
+new who guidelines promote water boiling,170,78,59,0.92,1,0,0,0,0,0
+public toilets improve hygiene in kampala,25,147,69,0.58,0,1,0,3,0,0
+new who guidelines promote water boiling,103,8,61,0.03,1,1,2,3,0,0
+ngos distribute water purification tablets,147,31,79,0.2,0,1,0,2,0,0
+studies show water quality impacts health,47,131,33,0.69,1,1,0,0,0,0
+natural spring water prevents covid,136,49,86,0.92,0,1,2,0,1,1
+experts debate the safety of boiling water,284,81,87,-0.49,0,1,0,0,0,1
+drinking bottled water causes kidney failure,173,4,55,0.63,0,1,0,1,1,1
+chlorinated water is a government mind control tactic,86,147,12,0.08,0,0,1,1,0,1
+clean water access has improved in rural kenya,183,86,55,0.48,0,1,3,2,0,0
+east african communities adopt water filtration,100,125,17,0.29,1,1,0,0,1,0
+local programs claim sanitation success,247,74,53,1.21,1,0,2,3,0,0
+mobile apps now report safe borehole locations,273,21,76,0.49,1,0,1,1,0,0
+local programs claim sanitation success,188,67,42,-0.51,0,0,3,1,1,1
+mobile apps now report safe borehole locations,218,43,38,0.4,0,1,3,3,1,0
+safe sanitation is key to public health,82,33,60,0.4,0,1,1,1,1,0
+local programs claim sanitation success,116,76,41,-0.3,1,1,2,1,1,1
+boiling water damages your organs,293,41,80,-0.32,1,0,3,2,0,1
+experts debate the safety of boiling water,191,136,78,0.89,1,1,3,0,0,0
+western ngos poison wells to reduce population,46,105,17,-0.66,0,0,3,3,0,1
+unicef supports safe water projects in ethiopia,146,94,22,0.78,1,1,0,1,0,0
+natural spring water prevents covid,65,134,53,-0.07,1,1,0,3,0,1
+solar disinfection of water proves effective,196,67,29,0.05,0,0,1,3,1,0
+soap brands contain microchips for surveillance,267,146,97,-0.62,0,0,1,0,1,1
+rainwater harvesting gains popularity in uganda,67,127,57,0.67,0,1,2,0,1,0
+local programs claim sanitation success,132,84,67,1.05,1,1,2,4,0,0
+experts debate the safety of boiling water,197,82,66,0.15,0,1,1,3,1,0
+drinking bottled water causes kidney failure,239,94,70,0.19,1,1,2,2,0,1
+boiling water damages your organs,177,31,17,-0.11,0,1,3,3,0,1
+new who guidelines promote water boiling,123,65,6,0.31,1,0,3,1,0,0
+new who guidelines promote water boiling,261,115,39,0.79,0,0,2,1,0,0
+local programs claim sanitation success,116,137,69,0.37,1,1,2,3,0,0
+sanitation drives are working in rural areas,46,129,85,0.47,0,1,1,0,0,0
+western ngos poison wells to reduce population,101,59,64,0.41,1,1,1,1,0,1
+sanitizer causes infertility experts say,27,16,67,0.3,0,1,2,2,1,1
+unicef supports safe water projects in ethiopia,72,95,48,0.54,0,1,3,2,1,0
+clean water access has improved in rural kenya,159,143,51,0.21,1,1,0,1,1,0
+using soap daily can cause skin cancer,148,15,28,-0.05,1,1,2,3,1,1
+safe sanitation is key to public health,195,45,20,-0.18,0,1,1,3,0,0
+vaccines in water are used to track people,194,106,89,-0.06,1,1,1,2,1,1
+experts debate the safety of boiling water,214,87,77,0.37,0,0,2,0,0,1
+sanitation drives are working in rural areas,269,128,8,1.04,0,1,1,0,1,0
+public toilets improve hygiene in kampala,223,138,46,0.63,1,1,3,3,1,0
+unknown,265,118,75,-0.74,0,0,1,2,1,1
+sanitation drives are working in rural areas,144,84,41,0.28,1,0,0,2,0,0
+studies show water quality impacts health,70,3,50,0.24,1,1,0,3,0,0
+ngos distribute water purification tablets,97,70,55,0.5,1,0,3,2,0,0
+soap brands contain microchips for surveillance,216,110,50,-0.69,0,1,1,2,0,1
+ngos distribute water purification tablets,138,49,69,0.4,1,0,1,2,0,0
+soap brands contain microchips for surveillance,12,139,19,0.18,0,1,2,0,0,1
+safe sanitation is key to public health,251,94,87,0.7,1,1,0,0,1,0
+solar disinfection of water proves effective,130,91,26,0.91,0,1,2,2,0,0
+natural spring water prevents covid,111,64,37,-1.67,0,0,2,0,1,1
+water kiosks now serve clean water in nairobi,47,46,71,0.34,0,1,1,2,0,0
+unknown,142,105,64,0.6,0,1,0,0,1,0
+safe sanitation is key to public health,211,129,53,0.17,0,0,2,0,0,0
+safe sanitation is key to public health,30,105,23,0.1,1,1,1,2,1,0
+east african communities adopt water filtration,251,23,46,0.19,1,0,3,1,1,0
+clean water access has improved in rural kenya,118,3,70,0.1,1,1,0,2,0,0
+public toilets improve hygiene in kampala,93,107,82,0.51,1,1,1,3,1,0
+western ngos poison wells to reduce population,92,18,85,0.17,0,0,3,2,0,1
+rainwater harvesting gains popularity in uganda,78,39,62,0.65,1,1,2,4,0,0
+solar disinfection of water proves effective,138,49,56,0.27,0,1,2,3,1,0
+unicef supports safe water projects in ethiopia,205,74,54,0.34,0,0,2,3,0,0
+soap brands contain microchips for surveillance,149,11,59,0.09,0,0,3,2,0,1
+chlorinated water is a government mind control tactic,292,26,98,1.28,1,1,3,3,0,1
+local programs claim sanitation success,243,112,61,0.18,0,1,2,2,1,0
+experts debate the safety of boiling water,32,48,29,-0.32,0,1,2,1,0,0
+more east african homes now use filtration,162,143,92,0.51,1,0,3,3,0,0
+tap water linked to reduced iq,286,129,21,0.28,1,0,1,2,0,1
+face masks cause water contamination when washed,70,59,74,0.26,1,0,0,0,0,1
+new who guidelines promote water boiling,61,29,83,0.15,0,1,2,1,0,0
+using soap daily can cause skin cancer,162,83,28,0.14,0,0,3,1,1,1
+western ngos poison wells to reduce population,246,27,40,0.38,0,1,1,0,1,1
+unicef supports safe water projects in ethiopia,41,24,41,-0.01,0,0,1,3,0,0
+east african communities adopt water filtration,64,95,97,0.27,0,0,1,3,1,0
+safe sanitation is key to public health,45,124,64,-0.56,1,1,2,2,0,0
+local programs claim sanitation success,119,9,30,0.38,1,0,3,0,0,0
+boiled water increases blood acidity,186,41,29,-0.09,0,1,0,0,1,1
+mobile apps now report safe borehole locations,106,39,17,0.92,0,0,3,0,0,0
+rainwater is safer than treated tap water,222,76,16,1.07,1,0,3,1,0,1
+studies show water quality impacts health,146,104,37,1.64,0,1,1,0,0,0
+more east african homes now use filtration,15,117,13,0.51,1,1,0,2,0,0
+clean water access has improved in rural kenya,118,41,86,-0.1,1,0,2,0,1,0
+east african communities adopt water filtration,44,46,88,0.39,1,0,2,0,1,0
+clean water access has improved in rural kenya,48,21,78,0.04,0,0,1,1,1,0
+clean water access has improved in rural kenya,159,106,55,0.54,1,0,2,1,1,0
+boiled water increases blood acidity,127,26,21,0.58,0,1,3,1,1,1
+unicef supports safe water projects in ethiopia,270,40,66,0.13,1,0,1,3,1,0
+sanitation drives are working in rural areas,96,79,55,0.17,1,0,0,0,1,0
+soap brands contain microchips for surveillance,85,88,18,0.01,1,0,3,2,0,1
+unknown,223,65,56,-0.22,1,0,0,3,0,0
+east african communities adopt water filtration,294,11,43,1.53,0,0,0,2,1,0
+solar disinfection of water proves effective,248,72,97,0.09,1,0,3,3,0,0
+unknown,174,75,34,0.64,1,1,0,0,1,0
+drinking bottled water causes kidney failure,96,89,0,-0.99,0,0,1,2,0,1
+experts debate the safety of boiling water,150,9,51,0.51,0,1,1,4,1,0
+safe sanitation is key to public health,169,95,84,0.67,0,1,3,2,0,0
+studies show water quality impacts health,55,19,92,0.13,0,1,2,1,1,1
+ngos distribute water purification tablets,121,38,69,0.27,1,1,0,2,1,0
+sanitation drives are working in rural areas,54,59,36,-0.28,1,0,3,3,1,0
+boiling water damages your organs,256,65,64,0.1,0,0,0,3,0,1
+chlorinated water is a government mind control tactic,113,64,50,-0.2,1,1,3,1,0,1
+water kiosks now serve clean water in nairobi,94,123,0,0.55,1,1,0,1,1,0
+mobile apps now report safe borehole locations,143,129,90,0.68,1,1,2,0,1,0
+unicef supports safe water projects in ethiopia,117,56,20,0.35,1,0,3,2,1,0
+local programs claim sanitation success,27,77,52,-0.54,1,1,1,1,0,0
+proper handwashing reduces cholera outbreaks,103,28,15,0.09,1,0,2,3,1,0
+unicef supports safe water projects in ethiopia,159,14,60,0.5,0,1,1,3,0,0
+more east african homes now use filtration,255,11,53,1.02,0,1,2,1,0,0
+experts debate the safety of boiling water,298,100,39,-0.28,0,1,1,1,1,0
+sanitizer causes infertility experts say,218,83,25,1.02,0,0,2,1,0,1
+more east african homes now use filtration,135,124,79,0.64,1,0,0,0,0,0
+more east african homes now use filtration,244,102,91,1.14,0,1,1,3,0,0
+studies show water quality impacts health,131,23,64,0.02,1,0,0,2,1,0
+proper handwashing reduces cholera outbreaks,147,148,99,0.53,0,0,3,2,0,0
+chlorinated water is a government mind control tactic,124,137,73,0.43,1,1,0,2,0,1
+unknown,171,109,63,-0.29,0,1,1,2,0,0
+public toilets improve hygiene in kampala,210,77,42,-0.08,1,0,2,0,0,0
+safe sanitation is key to public health,243,100,16,-0.18,0,0,0,1,1,0
+water kiosks now serve clean water in nairobi,37,145,58,1.15,1,1,2,2,0,0
+clean water access has improved in rural kenya,20,141,22,-0.35,0,0,3,3,0,0
+rainwater harvesting gains popularity in uganda,215,127,6,0.57,1,0,3,2,1,0
+water kiosks now serve clean water in nairobi,176,57,43,0.04,0,1,1,3,1,0
+soap brands contain microchips for surveillance,256,75,52,0.89,0,0,2,3,1,1
+public toilets improve hygiene in kampala,56,149,70,0.83,1,0,0,2,1,0
+safe sanitation is key to public health,255,35,78,-0.1,1,0,0,2,1,0
+local programs claim sanitation success,136,21,33,0.34,0,0,3,1,1,0
+solar disinfection of water proves effective,156,126,45,0.49,0,1,2,2,1,0
+unknown,127,79,67,-0.58,1,1,2,3,0,1
+proper handwashing reduces cholera outbreaks,161,99,77,0.89,0,1,3,2,1,0
+chlorinated water is a government mind control tactic,81,95,77,0.15,0,0,0,1,1,1
+safe sanitation is key to public health,146,147,15,-0.01,1,1,3,3,0,0
+rainwater is safer than treated tap water,184,17,70,-0.6,0,0,2,0,1,1
+unknown,298,37,95,0.21,0,1,0,0,1,0
+studies show water quality impacts health,28,108,18,-0.6,0,1,3,0,0,1
+east african communities adopt water filtration,204,122,1,-0.18,1,1,2,1,0,0
+studies show water quality impacts health,184,143,9,0.81,0,1,2,1,1,0
+vaccines in water are used to track people,150,148,49,-0.17,0,0,1,2,0,1
+safe sanitation is key to public health,255,103,80,1.24,0,1,1,3,1,0
+solar disinfection of water proves effective,102,139,11,0.39,0,0,3,1,0,0
+water kiosks now serve clean water in nairobi,248,143,69,0.33,1,1,0,1,1,0
+face masks cause water contamination when washed,214,80,21,-0.45,1,0,0,0,0,1
+more east african homes now use filtration,57,86,31,0.44,1,0,1,0,0,0
+natural spring water prevents covid,254,141,83,0.33,0,0,2,2,1,1
+studies show water quality impacts health,137,60,0,0.64,0,0,1,2,1,1
+public toilets improve hygiene in kampala,291,45,53,0.48,1,0,3,0,1,0
+vaccines in water are used to track people,26,31,57,0.35,1,0,1,4,1,1
+clean water access has improved in rural kenya,80,14,69,1.2,0,1,0,2,1,0
+mobile apps now report safe borehole locations,278,43,82,0.35,0,1,3,0,0,0
+drinking bottled water causes kidney failure,291,144,17,0.4,1,1,0,1,0,1
+filtered water removes essential nutrients,16,53,5,0.23,1,0,3,3,0,1
+ngos distribute water purification tablets,112,43,44,0.04,0,1,2,1,0,0
+more east african homes now use filtration,202,97,96,0.34,1,1,1,1,0,0
+experts debate the safety of boiling water,250,4,22,0.19,1,0,0,0,0,0
+solar disinfection of water proves effective,71,108,22,0.94,1,1,3,1,0,0
+east african communities adopt water filtration,26,26,25,1.12,0,0,1,2,0,0
+sanitation drives are working in rural areas,180,115,76,0.28,1,1,0,1,1,0
+safe sanitation is key to public health,34,86,6,0.24,1,1,2,1,0,0
+solar disinfection of water proves effective,260,103,78,-0.04,0,0,3,3,0,0
+experts debate the safety of boiling water,262,122,43,-0.29,0,1,0,0,1,0
+proper handwashing reduces cholera outbreaks,216,78,26,0.68,1,1,0,4,1,0
+rainwater harvesting gains popularity in uganda,38,42,25,0.19,0,1,2,2,0,0
+soap brands contain microchips for surveillance,126,96,96,1.2,0,0,3,3,1,1
+public toilets improve hygiene in kampala,291,30,78,0.16,1,1,1,1,1,0
+sanitizer causes infertility experts say,153,98,35,0.4,1,0,0,3,0,1
+boiled water increases blood acidity,34,16,54,0.5,1,1,3,1,0,1
+clean water access has improved in rural kenya,165,82,63,0.36,1,0,3,2,0,0
+filtered water removes essential nutrients,82,109,90,-0.09,1,0,2,0,0,1
+boiled water increases blood acidity,129,31,56,0.25,1,1,0,2,0,1
+new who guidelines promote water boiling,102,140,68,-0.08,1,1,1,2,0,0
+mobile apps now report safe borehole locations,95,34,60,0.44,1,1,0,4,0,0
+rainwater harvesting gains popularity in uganda,127,132,1,-0.01,1,1,0,3,1,0
+ngos distribute water purification tablets,242,28,54,0.6,1,0,1,2,1,0
+mobile apps now report safe borehole locations,208,69,96,0.7,1,0,3,1,1,0
+ngos distribute water purification tablets,215,94,79,0.78,0,1,0,2,1,0
+clean water access has improved in rural kenya,156,21,86,-0.09,1,0,3,1,0,0
+local programs claim sanitation success,280,68,37,-0.01,1,0,2,0,1,0
+using soap daily can cause skin cancer,148,88,79,0.38,0,0,3,4,1,1
+solar disinfection of water proves effective,190,71,77,-0.17,0,0,1,1,0,0
+unicef supports safe water projects in ethiopia,39,128,28,0.17,1,1,1,2,0,0
+tap water linked to reduced iq,66,86,25,0.65,1,0,2,2,1,1
+proper handwashing reduces cholera outbreaks,241,95,34,0.32,1,1,3,1,1,0
+water kiosks now serve clean water in nairobi,155,74,78,0.72,0,1,0,3,1,0
+new who guidelines promote water boiling,57,53,66,0.52,1,1,2,4,0,0
+sanitation drives are working in rural areas,203,87,86,-0.25,1,1,1,2,0,0
+sanitizer causes infertility experts say,233,53,28,0.58,0,0,3,2,1,1
+experts debate the safety of boiling water,145,15,33,0.18,0,1,1,3,1,0
+unknown,31,98,96,0.18,0,0,0,0,0,1
+new who guidelines promote water boiling,15,19,40,0.11,1,1,2,2,1,0
+new who guidelines promote water boiling,213,45,40,0.2,0,0,2,2,1,0
+local programs claim sanitation success,248,126,22,0.11,0,0,1,2,0,0
+unicef supports safe water projects in ethiopia,194,57,70,0.46,1,1,2,2,0,0
+solar disinfection of water proves effective,229,110,2,0.73,1,1,3,0,0,0
+soap brands contain microchips for surveillance,125,128,57,0.58,1,0,3,1,0,1
+experts debate the safety of boiling water,58,80,31,0.75,0,0,1,3,0,1
+public toilets improve hygiene in kampala,182,83,30,0.63,0,1,1,0,1,0
+drinking bottled water causes kidney failure,91,69,81,0.48,0,1,2,0,0,1
+rainwater is safer than treated tap water,54,7,42,0.3,1,1,1,1,0,1
+studies show water quality impacts health,29,28,6,1.11,1,1,3,1,0,0
+rainwater harvesting gains popularity in uganda,230,111,0,1.51,1,0,0,3,1,0
+public toilets improve hygiene in kampala,132,130,60,1.33,1,0,3,1,1,0
+clean water access has improved in rural kenya,243,107,13,0.64,1,1,2,2,1,0
+ngos distribute water purification tablets,230,108,51,-0.05,1,0,1,1,0,0
+experts debate the safety of boiling water,12,19,95,-0.04,1,0,1,3,0,0
+ngos distribute water purification tablets,191,72,5,0.67,1,1,1,1,0,0
+more east african homes now use filtration,215,3,9,0.46,1,0,2,1,0,0
+mobile apps now report safe borehole locations,49,18,70,0.7,0,0,0,3,0,0
+tap water linked to reduced iq,68,101,89,0.74,0,1,2,2,0,1
+soap brands contain microchips for surveillance,71,140,97,0.21,1,0,3,4,0,1
+proper handwashing reduces cholera outbreaks,141,140,29,1.03,0,0,0,0,0,0
+natural spring water prevents covid,69,85,99,-0.28,1,0,1,2,1,1
+unknown,131,51,20,0.36,1,1,3,1,0,0
+tap water linked to reduced iq,116,110,59,0.12,1,0,1,3,1,1
+studies show water quality impacts health,105,108,80,0.52,1,1,0,2,0,0
+sanitizer causes infertility experts say,244,85,96,0.45,0,1,2,0,0,1
+experts debate the safety of boiling water,71,42,73,0.04,0,0,3,0,0,1
+safe sanitation is key to public health,265,41,62,0.68,0,1,2,2,0,0
+experts debate the safety of boiling water,58,89,41,0.49,0,1,3,2,1,0
+experts debate the safety of boiling water,168,114,50,0.6,0,1,1,2,1,0
+studies show water quality impacts health,133,25,63,0.11,1,0,1,3,0,0
+unknown,216,42,75,-0.33,1,0,2,2,0,1
+water kiosks now serve clean water in nairobi,57,76,55,0.83,1,0,1,2,1,0
+safe sanitation is key to public health,145,136,79,-0.21,1,0,0,3,1,0
+east african communities adopt water filtration,210,19,40,0.22,1,1,0,0,1,0
+studies show water quality impacts health,259,38,31,0.58,0,0,0,2,1,0
+clean water access has improved in rural kenya,218,11,14,-0.09,1,1,0,4,0,0
+filtered water removes essential nutrients,220,10,61,-0.62,0,0,3,1,1,1
+east african communities adopt water filtration,201,41,26,0.73,1,1,3,2,1,0
+boiling water damages your organs,53,10,27,-0.4,0,0,0,2,0,1
+clean water access has improved in rural kenya,38,37,80,0.73,0,0,3,1,1,0
+clean water access has improved in rural kenya,68,97,63,0.41,1,1,0,2,0,0
+using soap daily can cause skin cancer,80,18,58,0.11,0,1,2,2,0,1
+more east african homes now use filtration,101,133,57,-0.46,1,0,3,2,0,0
+public toilets improve hygiene in kampala,274,115,1,0.34,1,1,0,1,1,0
+ngos distribute water purification tablets,229,112,35,0.25,1,1,0,2,0,0
+sanitation drives are working in rural areas,224,64,70,-0.17,0,1,2,1,0,0
+sanitation drives are working in rural areas,286,98,12,0.2,0,0,2,2,0,0
+studies show water quality impacts health,73,71,14,-0.21,0,1,1,2,1,1
+unknown,254,51,88,-0.26,0,1,0,2,1,1
+boiling water damages your organs,71,117,86,-0.07,1,0,1,2,1,1
+soap brands contain microchips for surveillance,179,119,59,-0.64,0,0,3,1,1,1
+local programs claim sanitation success,278,6,21,0.25,1,1,0,2,1,0
+local programs claim sanitation success,276,10,62,-0.38,0,1,0,2,0,0
+clean water access has improved in rural kenya,63,102,89,0.76,1,1,3,2,1,0
+rainwater harvesting gains popularity in uganda,25,60,96,0.68,0,0,2,2,0,0
+ngos distribute water purification tablets,17,67,74,-0.37,0,0,0,0,1,0
+experts debate the safety of boiling water,113,139,73,1.3,1,0,2,2,1,0
+sanitizer causes infertility experts say,68,101,24,-0.37,1,1,0,2,1,1
+ngos distribute water purification tablets,49,109,47,0.11,1,1,1,3,1,0
+mobile apps now report safe borehole locations,246,139,42,0.36,1,1,2,1,1,0
+clean water access has improved in rural kenya,103,50,37,-0.02,0,0,1,0,0,0
+experts debate the safety of boiling water,231,116,40,0.09,1,1,0,3,1,1
+unknown,213,45,44,0.38,0,1,1,3,1,0
+new who guidelines promote water boiling,147,52,87,-0.36,0,0,0,0,0,0
+water kiosks now serve clean water in nairobi,216,87,39,-0.19,1,0,0,1,1,0
+safe sanitation is key to public health,90,120,96,0.81,0,0,1,3,0,0
+local programs claim sanitation success,227,12,16,0.44,1,1,0,1,1,0
+drinking bottled water causes kidney failure,11,88,87,0.59,0,1,3,3,0,1
+solar disinfection of water proves effective,187,124,56,1.26,1,0,0,2,1,0
+water kiosks now serve clean water in nairobi,288,117,1,-0.34,1,0,0,2,1,0
+solar disinfection of water proves effective,155,53,95,-0.24,0,0,3,1,0,0
+sanitation drives are working in rural areas,233,115,61,0.03,1,1,2,3,1,0
+new who guidelines promote water boiling,71,117,87,0.21,1,1,3,1,1,0
+experts debate the safety of boiling water,248,3,8,-0.75,1,0,3,0,0,0
+new who guidelines promote water boiling,204,74,67,0.48,0,0,3,1,1,0
+sanitation drives are working in rural areas,175,48,80,0.79,1,0,3,3,0,0
+face masks cause water contamination when washed,231,6,16,-0.13,0,1,2,3,0,1
+solar disinfection of water proves effective,70,109,49,0.91,0,1,0,2,1,0
+studies show water quality impacts health,138,121,93,0.72,0,0,1,3,1,0
+tap water linked to reduced iq,182,10,39,-0.46,0,1,2,0,1,1
+sanitation drives are working in rural areas,165,91,57,0.06,0,1,2,2,1,0
+unicef supports safe water projects in ethiopia,119,22,74,0.62,0,1,0,3,1,0
+local programs claim sanitation success,278,27,84,0.29,0,1,3,1,0,1
+mobile apps now report safe borehole locations,287,110,20,0.6,1,1,3,2,0,0
+unknown,83,56,17,-0.51,0,1,2,3,0,1
+more east african homes now use filtration,216,25,54,0.06,1,0,1,2,1,0
+chlorinated water is a government mind control tactic,288,53,28,-1.01,1,1,3,1,0,1
+mobile apps now report safe borehole locations,213,28,23,0.24,0,0,2,1,0,0
+clean water access has improved in rural kenya,170,96,73,0.54,1,1,1,1,0,0
+rainwater harvesting gains popularity in uganda,37,13,16,0.0,0,1,1,2,0,0
+solar disinfection of water proves effective,266,77,17,0.46,0,1,1,3,1,0
+boiled water increases blood acidity,174,34,41,-0.22,0,1,1,0,1,1
+experts debate the safety of boiling water,72,29,83,0.29,0,1,2,1,0,0
+unknown,31,91,44,0.51,0,0,2,3,1,0
+rainwater is safer than treated tap water,79,16,81,1.3,0,0,1,1,1,1
+sanitation drives are working in rural areas,105,92,16,0.09,0,1,3,3,0,0
+local programs claim sanitation success,172,78,72,-0.42,1,1,3,3,1,1
+drinking bottled water causes kidney failure,88,109,13,0.31,0,1,2,2,0,1
+safe sanitation is key to public health,14,101,48,0.72,1,0,1,3,0,0
+rainwater harvesting gains popularity in uganda,129,105,28,0.76,0,1,1,2,0,0
+solar disinfection of water proves effective,187,46,94,0.27,1,1,2,1,0,0
+rainwater harvesting gains popularity in uganda,185,63,3,-0.18,1,1,2,3,0,0
+face masks cause water contamination when washed,226,63,81,0.33,0,0,2,2,1,1
+water kiosks now serve clean water in nairobi,65,86,19,0.8,0,0,0,3,1,0
+soap brands contain microchips for surveillance,196,6,46,-0.34,0,1,0,2,1,1
+clean water access has improved in rural kenya,241,21,8,0.13,0,1,1,2,1,0
+studies show water quality impacts health,264,80,76,-0.21,1,1,0,3,1,1
+unicef supports safe water projects in ethiopia,113,73,78,0.51,0,1,3,4,0,0
+unknown,86,137,26,0.74,0,1,1,4,0,0
+local programs claim sanitation success,239,134,14,-0.03,0,1,0,1,1,0
+vaccines in water are used to track people,267,124,91,0.45,1,0,1,3,1,1
+proper handwashing reduces cholera outbreaks,273,49,18,-0.03,1,1,3,1,1,0
+face masks cause water contamination when washed,191,51,89,0.1,1,1,3,0,0,1
+public toilets improve hygiene in kampala,265,0,51,0.79,0,0,1,0,1,0
+rainwater harvesting gains popularity in uganda,47,3,25,0.88,0,1,0,1,0,0
+mobile apps now report safe borehole locations,185,144,88,0.26,1,0,1,4,0,0
+sanitation drives are working in rural areas,36,131,25,-0.11,0,1,3,2,1,0
+public toilets improve hygiene in kampala,285,3,25,0.69,0,0,0,0,1,0
+boiling water damages your organs,149,0,45,-0.1,1,1,0,2,1,1
+chlorinated water is a government mind control tactic,296,70,91,0.56,0,0,2,0,0,1
+unknown,100,34,48,-0.12,0,1,1,0,0,1
+vaccines in water are used to track people,70,7,81,1.0,0,1,3,1,1,1
+public toilets improve hygiene in kampala,172,35,95,0.79,0,0,3,1,1,0
+experts debate the safety of boiling water,152,122,52,0.65,0,1,1,2,0,0
+sanitation drives are working in rural areas,262,42,2,1.24,0,1,1,2,0,0
+western ngos poison wells to reduce population,278,26,65,0.51,0,1,3,1,0,1
+proper handwashing reduces cholera outbreaks,196,31,96,0.39,0,1,3,1,0,0
+solar disinfection of water proves effective,95,77,41,0.26,1,1,1,1,0,0
+proper handwashing reduces cholera outbreaks,175,120,18,1.03,1,1,1,2,1,0
+clean water access has improved in rural kenya,123,145,16,0.17,0,1,0,0,1,0
+experts debate the safety of boiling water,192,15,32,-0.8,0,0,2,0,0,1
+boiling water damages your organs,216,98,75,0.69,0,0,3,1,1,1
+water kiosks now serve clean water in nairobi,265,46,48,0.53,1,1,0,0,0,0
+rainwater is safer than treated tap water,244,30,55,-0.24,1,0,1,2,0,1
+sanitation drives are working in rural areas,12,3,62,1.24,1,1,2,2,1,0
+unknown,217,16,2,-0.15,1,0,3,0,1,0
+unicef supports safe water projects in ethiopia,206,38,48,0.3,1,1,2,1,1,0
+sanitation drives are working in rural areas,134,47,54,-0.13,1,0,0,3,1,0
+new who guidelines promote water boiling,147,38,25,-0.11,1,1,1,2,1,0
+sanitizer causes infertility experts say,34,131,98,0.32,1,0,0,2,1,1
+east african communities adopt water filtration,77,29,71,0.01,0,1,2,0,0,0
+drinking bottled water causes kidney failure,70,21,51,0.96,0,0,0,2,0,1
+solar disinfection of water proves effective,38,65,99,-0.33,1,0,0,1,1,0
+rainwater harvesting gains popularity in uganda,28,107,6,0.5,1,0,1,0,0,0
+mobile apps now report safe borehole locations,180,11,45,0.7,1,1,1,2,0,0
+water kiosks now serve clean water in nairobi,83,35,45,0.12,0,1,2,1,1,0
+east african communities adopt water filtration,70,17,99,0.34,1,1,2,2,1,0
+rainwater is safer than treated tap water,162,89,15,-0.22,0,0,0,3,1,1
+mobile apps now report safe borehole locations,285,0,23,0.79,0,1,3,2,1,0
+proper handwashing reduces cholera outbreaks,57,126,60,0.94,0,0,0,3,1,0
+ngos distribute water purification tablets,220,89,53,0.31,0,1,2,1,1,0
+tap water linked to reduced iq,148,86,61,0.37,1,0,0,0,0,1
+new who guidelines promote water boiling,119,89,0,0.63,0,1,1,0,1,0
+mobile apps now report safe borehole locations,192,133,48,0.06,1,1,0,1,0,0
+public toilets improve hygiene in kampala,37,69,24,0.31,1,0,1,2,1,0
+unicef supports safe water projects in ethiopia,206,43,9,-0.01,0,0,3,0,1,0
+ngos distribute water purification tablets,200,85,79,0.15,0,1,1,2,1,0
+unicef supports safe water projects in ethiopia,60,18,15,1.13,1,1,3,3,1,0
+more east african homes now use filtration,158,100,57,0.78,0,0,3,3,1,0
+natural spring water prevents covid,277,145,71,-0.6,1,0,0,1,1,1
+experts debate the safety of boiling water,59,94,28,0.22,1,1,2,1,0,0
+new who guidelines promote water boiling,255,100,91,0.16,0,1,2,2,1,0
+safe sanitation is key to public health,122,29,5,-0.25,0,0,0,0,0,0
+experts debate the safety of boiling water,179,32,15,-0.02,0,1,3,4,1,0
+vaccines in water are used to track people,175,11,19,0.41,0,0,2,3,0,1
+experts debate the safety of boiling water,23,117,79,-0.27,0,1,1,2,1,0
+water kiosks now serve clean water in nairobi,212,93,70,1.01,0,0,2,2,1,0
+boiled water increases blood acidity,297,136,77,-0.47,0,0,3,2,0,1
+solar disinfection of water proves effective,198,148,42,0.27,1,0,3,3,0,0
+ngos distribute water purification tablets,164,75,25,0.26,1,0,1,3,1,0

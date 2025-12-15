@@ -1,0 +1,1001 @@
+post_id,user_id,platform,likes,shares,comments,text_content,label
+post_1,user_103,Facebook,299,54,28,Solar disinfection of water proves effective.,Legitimate
+post_2,user_271,TikTok,224,119,32,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_3,user_107,TikTok,129,74,61,,Legitimate
+post_4,user_72,TikTok,64,20,14,Clean water access has improved in rural Kenya.,Legitimate
+post_5,user_189,Reddit,36,132,1,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_6,user_21,Facebook,127,86,51,Tap water linked to reduced IQ.,Misinformation
+post_7,user_103,Facebook,230,58,43,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_8,user_122,Reddit,240,88,53,Sanitation drives are working in rural areas.,Legitimate
+post_9,user_215,Twitter,62,149,17,Experts debate the safety of boiling water.,Misinformation
+post_10,user_88,TikTok,242,82,2,More East African homes now use filtration.,Legitimate
+post_11,user_100,Twitter,167,64,6,Drinking bottled water causes kidney failure.,Misinformation
+post_12,user_152,Reddit,278,63,42,Sanitation drives are working in rural areas.,Legitimate
+post_13,user_131,Twitter,30,70,81,Mobile apps now report safe borehole locations.,Legitimate
+post_14,user_150,Twitter,62,3,37,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_15,user_258,Reddit,284,142,36,Drinking bottled water causes kidney failure.,Misinformation
+post_16,user_294,TikTok,290,103,57,Safe sanitation is key to public health.,Legitimate
+post_17,user_192,Twitter,223,149,32,Using soap daily can cause skin cancer.,Misinformation
+post_18,user_277,Facebook,40,92,58,Safe sanitation is key to public health.,Legitimate
+post_19,user_161,Twitter,192,141,94,Chlorinated water is a government mind control tactic.,Misinformation
+post_20,user_22,Twitter,32,147,10,Vaccines in water are used to track people.,Misinformation
+post_21,user_253,Facebook,41,111,67,Using soap daily can cause skin cancer.,Misinformation
+post_22,user_236,TikTok,83,118,81,Soap brands contain microchips for surveillance.,Misinformation
+post_23,user_49,Facebook,19,58,67,Public toilets improve hygiene in Kampala.,Legitimate
+post_24,user_59,TikTok,63,42,97,Safe sanitation is key to public health.,Legitimate
+post_25,user_170,Reddit,61,11,92,Boiled water increases blood acidity.,Misinformation
+post_26,user_188,Reddit,157,39,87,Solar disinfection of water proves effective.,Legitimate
+post_27,user_271,Twitter,169,117,21,East African communities adopt water filtration.,Legitimate
+post_28,user_190,Twitter,23,19,65,NGOs distribute water purification tablets.,Legitimate
+post_29,user_175,Reddit,187,130,43,Local programs claim sanitation success.,Legitimate
+post_30,user_51,Facebook,62,89,5,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_31,user_55,Reddit,31,93,41,Soap brands contain microchips for surveillance.,Misinformation
+post_32,user_244,TikTok,39,12,24,Safe sanitation is key to public health.,Legitimate
+post_33,user_131,Twitter,200,65,56,Filtered water removes essential nutrients.,Misinformation
+post_34,user_135,Facebook,269,36,84,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_35,user_21,Twitter,214,65,54,Rainwater is safer than treated tap water.,Misinformation
+post_36,user_167,Reddit,68,35,15,Chlorinated water is a government mind control tactic.,Misinformation
+post_37,user_274,Facebook,273,25,94,Western NGOs poison wells to reduce population.,Misinformation
+post_38,user_89,Reddit,21,74,13,Soap brands contain microchips for surveillance.,Misinformation
+post_39,user_14,TikTok,128,107,38,Tap water linked to reduced IQ.,Misinformation
+post_40,user_242,Reddit,299,42,27,,Legitimate
+post_41,user_265,Facebook,257,149,95,New WHO guidelines promote water boiling.,Legitimate
+post_42,user_53,Reddit,136,147,91,Sanitation drives are working in rural areas.,Legitimate
+post_43,user_92,Twitter,84,7,50,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_44,user_264,Twitter,213,28,48,NGOs distribute water purification tablets.,Legitimate
+post_45,user_35,Facebook,58,39,8,Experts debate the safety of boiling water.,Misinformation
+post_46,user_206,Twitter,88,127,57,Local programs claim sanitation success.,Misinformation
+post_47,user_81,TikTok,250,83,44,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_48,user_50,TikTok,163,115,21,Experts debate the safety of boiling water.,Misinformation
+post_49,user_2,Facebook,283,143,31,New WHO guidelines promote water boiling.,Legitimate
+post_50,user_54,Reddit,105,61,68,"Sanitizer causes infertility, experts say.",Misinformation
+post_51,user_106,Twitter,223,6,86,Experts debate the safety of boiling water.,Misinformation
+post_52,user_260,Twitter,218,44,68,Solar disinfection of water proves effective.,Legitimate
+post_53,user_191,Reddit,97,87,41,New WHO guidelines promote water boiling.,Legitimate
+post_54,user_218,Reddit,273,72,52,Vaccines in water are used to track people.,Misinformation
+post_55,user_44,Reddit,166,36,95,Studies show water quality impacts health.,Legitimate
+post_56,user_162,Reddit,165,118,58,Clean water access has improved in rural Kenya.,Legitimate
+post_57,user_202,Twitter,148,56,73,Drinking bottled water causes kidney failure.,Misinformation
+post_58,user_270,TikTok,130,7,38,More East African homes now use filtration.,Legitimate
+post_59,user_271,Facebook,74,94,14,Tap water linked to reduced IQ.,Misinformation
+post_60,user_215,Facebook,116,116,70,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_61,user_252,Reddit,156,109,28,Boiling water damages your organs.,Misinformation
+post_62,user_190,TikTok,146,19,2,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_63,user_296,Twitter,171,123,82,"Sanitizer causes infertility, experts say.",Misinformation
+post_64,user_213,Twitter,109,52,9,,Misinformation
+post_65,user_208,Facebook,150,118,91,NGOs distribute water purification tablets.,Legitimate
+post_66,user_237,Reddit,92,11,28,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_67,user_53,TikTok,186,16,78,Natural spring water prevents COVID-19.,Misinformation
+post_68,user_280,Facebook,207,63,34,More East African homes now use filtration.,Legitimate
+post_69,user_217,TikTok,121,41,5,Solar disinfection of water proves effective.,Legitimate
+post_70,user_252,Reddit,65,93,11,New WHO guidelines promote water boiling.,Legitimate
+post_71,user_188,Reddit,188,146,37,Soap brands contain microchips for surveillance.,Misinformation
+post_72,user_41,Facebook,195,10,76,Chlorinated water is a government mind control tactic.,Misinformation
+post_73,user_157,Reddit,227,97,92,,Legitimate
+post_74,user_15,TikTok,226,70,18,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_75,user_65,TikTok,129,107,66,Mobile apps now report safe borehole locations.,Legitimate
+post_76,user_9,Facebook,184,57,7,Studies show water quality impacts health.,Legitimate
+post_77,user_129,Reddit,32,33,7,Public toilets improve hygiene in Kampala.,Legitimate
+post_78,user_136,Twitter,222,19,83,Experts debate the safety of boiling water.,Legitimate
+post_79,user_63,Reddit,244,49,46,Face masks cause water contamination when washed.,Misinformation
+post_80,user_139,Facebook,22,101,3,Natural spring water prevents COVID-19.,Misinformation
+post_81,user_81,Facebook,110,137,50,NGOs distribute water purification tablets.,Legitimate
+post_82,user_163,Twitter,33,51,84,Vaccines in water are used to track people.,Misinformation
+post_83,user_289,Facebook,20,14,66,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_84,user_261,Facebook,282,83,44,Tap water linked to reduced IQ.,Misinformation
+post_85,user_231,Twitter,290,130,7,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_86,user_41,Twitter,103,36,86,Public toilets improve hygiene in Kampala.,Legitimate
+post_87,user_28,TikTok,210,125,15,Sanitation drives are working in rural areas.,Legitimate
+post_88,user_135,Facebook,30,39,76,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_89,user_201,Twitter,220,71,66,Local programs claim sanitation success.,Misinformation
+post_90,user_268,TikTok,149,39,8,More East African homes now use filtration.,Legitimate
+post_91,user_33,Facebook,110,55,59,Local programs claim sanitation success.,Legitimate
+post_92,user_48,Twitter,37,103,77,Clean water access has improved in rural Kenya.,Legitimate
+post_93,user_62,Facebook,50,138,76,More East African homes now use filtration.,Legitimate
+post_94,user_216,TikTok,155,109,70,Boiled water increases blood acidity.,Misinformation
+post_95,user_293,Reddit,265,135,14,Mobile apps now report safe borehole locations.,Legitimate
+post_96,user_99,Facebook,236,92,70,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_97,user_172,Facebook,245,93,97,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_98,user_214,Facebook,22,55,40,Sanitation drives are working in rural areas.,Legitimate
+post_99,user_35,Facebook,219,59,21,Rainwater is safer than treated tap water.,Misinformation
+post_100,user_227,Twitter,238,137,23,Experts debate the safety of boiling water.,Legitimate
+post_101,user_101,Reddit,109,38,43,Rainwater is safer than treated tap water.,Misinformation
+post_102,user_131,Facebook,40,27,0,Experts debate the safety of boiling water.,Legitimate
+post_103,user_257,Twitter,25,48,9,NGOs distribute water purification tablets.,Legitimate
+post_104,user_5,Reddit,146,124,79,Natural spring water prevents COVID-19.,Misinformation
+post_105,user_218,TikTok,175,12,71,Studies show water quality impacts health.,Legitimate
+post_106,user_255,TikTok,109,35,55,Local programs claim sanitation success.,Legitimate
+post_107,user_283,TikTok,118,100,88,,Misinformation
+post_108,user_207,TikTok,182,25,49,Local programs claim sanitation success.,Legitimate
+post_109,user_15,TikTok,246,85,11,Experts debate the safety of boiling water.,Misinformation
+post_110,user_42,Reddit,171,3,88,Local programs claim sanitation success.,Legitimate
+post_111,user_179,Facebook,225,81,80,Soap brands contain microchips for surveillance.,Misinformation
+post_112,user_63,TikTok,273,126,59,,Misinformation
+post_113,user_231,Facebook,272,87,25,East African communities adopt water filtration.,Legitimate
+post_114,user_241,Facebook,283,126,77,Western NGOs poison wells to reduce population.,Misinformation
+post_115,user_52,Facebook,12,119,40,Solar disinfection of water proves effective.,Legitimate
+post_116,user_96,Facebook,37,21,35,Natural spring water prevents COVID-19.,Misinformation
+post_117,user_222,Facebook,158,129,22,East African communities adopt water filtration.,Legitimate
+post_118,user_231,Reddit,37,30,42,Public toilets improve hygiene in Kampala.,Legitimate
+post_119,user_237,Facebook,74,118,5,Solar disinfection of water proves effective.,Legitimate
+post_120,user_143,Reddit,30,10,68,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_121,user_171,Reddit,261,45,42,Studies show water quality impacts health.,Legitimate
+post_122,user_29,Facebook,244,95,24,Face masks cause water contamination when washed.,Misinformation
+post_123,user_36,Reddit,236,9,17,Boiled water increases blood acidity.,Misinformation
+post_124,user_13,TikTok,22,127,61,Natural spring water prevents COVID-19.,Misinformation
+post_125,user_160,TikTok,58,98,12,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_126,user_187,TikTok,127,111,42,East African communities adopt water filtration.,Legitimate
+post_127,user_243,Facebook,63,59,77,Clean water access has improved in rural Kenya.,Legitimate
+post_128,user_86,TikTok,147,86,27,,Legitimate
+post_129,user_284,Twitter,62,144,17,Studies show water quality impacts health.,Legitimate
+post_130,user_66,Twitter,53,64,58,Local programs claim sanitation success.,Misinformation
+post_131,user_170,Twitter,62,56,59,Experts debate the safety of boiling water.,Misinformation
+post_132,user_45,TikTok,83,105,62,Experts debate the safety of boiling water.,Legitimate
+post_133,user_62,Reddit,55,8,56,Experts debate the safety of boiling water.,Legitimate
+post_134,user_134,Twitter,22,21,91,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_135,user_284,Reddit,174,140,50,Experts debate the safety of boiling water.,Misinformation
+post_136,user_28,Reddit,111,88,55,NGOs distribute water purification tablets.,Legitimate
+post_137,user_108,Facebook,289,17,26,Drinking bottled water causes kidney failure.,Misinformation
+post_138,user_44,Twitter,267,114,31,Mobile apps now report safe borehole locations.,Legitimate
+post_139,user_286,Facebook,147,144,8,East African communities adopt water filtration.,Legitimate
+post_140,user_128,Facebook,172,142,95,Rainwater is safer than treated tap water.,Misinformation
+post_141,user_231,Facebook,120,105,83,Vaccines in water are used to track people.,Misinformation
+post_142,user_190,TikTok,111,14,91,Boiled water increases blood acidity.,Misinformation
+post_143,user_225,Facebook,26,62,96,"Sanitizer causes infertility, experts say.",Misinformation
+post_144,user_283,Reddit,277,12,67,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_145,user_121,Twitter,191,80,45,Experts debate the safety of boiling water.,Legitimate
+post_146,user_116,Reddit,33,31,97,Solar disinfection of water proves effective.,Legitimate
+post_147,user_233,Twitter,38,136,66,Drinking bottled water causes kidney failure.,Misinformation
+post_148,user_259,TikTok,180,39,25,Western NGOs poison wells to reduce population.,Misinformation
+post_149,user_198,Twitter,237,147,7,Solar disinfection of water proves effective.,Legitimate
+post_150,user_137,Twitter,197,81,5,Boiled water increases blood acidity.,Misinformation
+post_151,user_165,Twitter,239,76,79,Chlorinated water is a government mind control tactic.,Misinformation
+post_152,user_225,Twitter,128,75,23,East African communities adopt water filtration.,Legitimate
+post_153,user_234,Reddit,165,37,47,Experts debate the safety of boiling water.,Misinformation
+post_154,user_172,Twitter,281,70,93,Western NGOs poison wells to reduce population.,Misinformation
+post_155,user_152,Facebook,184,47,44,East African communities adopt water filtration.,Legitimate
+post_156,user_160,Twitter,113,17,12,Safe sanitation is key to public health.,Legitimate
+post_157,user_96,Facebook,101,143,68,Local programs claim sanitation success.,Legitimate
+post_158,user_233,TikTok,195,38,24,Public toilets improve hygiene in Kampala.,Legitimate
+post_159,user_180,Facebook,292,88,19,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_160,user_113,Reddit,190,61,81,Solar disinfection of water proves effective.,Legitimate
+post_161,user_52,Facebook,179,140,81,Experts debate the safety of boiling water.,Misinformation
+post_162,user_268,Reddit,196,108,65,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_163,user_295,Facebook,184,80,73,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_164,user_113,Twitter,231,133,44,Mobile apps now report safe borehole locations.,Legitimate
+post_165,user_101,TikTok,242,76,46,Studies show water quality impacts health.,Legitimate
+post_166,user_113,Reddit,171,89,62,Using soap daily can cause skin cancer.,Misinformation
+post_167,user_81,Reddit,143,13,75,Clean water access has improved in rural Kenya.,Legitimate
+post_168,user_187,Twitter,233,94,76,Sanitation drives are working in rural areas.,Legitimate
+post_169,user_113,Twitter,162,53,54,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_170,user_2,Facebook,42,131,74,Chlorinated water is a government mind control tactic.,Misinformation
+post_171,user_130,Reddit,64,38,18,Vaccines in water are used to track people.,Misinformation
+post_172,user_220,Facebook,16,71,34,Public toilets improve hygiene in Kampala.,Legitimate
+post_173,user_54,Twitter,253,24,52,Public toilets improve hygiene in Kampala.,Legitimate
+post_174,user_224,Reddit,135,76,25,Sanitation drives are working in rural areas.,Legitimate
+post_175,user_225,TikTok,21,119,13,Sanitation drives are working in rural areas.,Legitimate
+post_176,user_126,TikTok,25,52,44,Mobile apps now report safe borehole locations.,Legitimate
+post_177,user_130,Reddit,217,130,43,Public toilets improve hygiene in Kampala.,Legitimate
+post_178,user_53,Reddit,52,149,87,Experts debate the safety of boiling water.,Legitimate
+post_179,user_172,Twitter,144,95,64,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_180,user_218,Reddit,237,71,50,Studies show water quality impacts health.,Misinformation
+post_181,user_160,Reddit,120,61,42,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_182,user_198,TikTok,169,5,85,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_183,user_247,Twitter,273,31,22,Solar disinfection of water proves effective.,Legitimate
+post_184,user_203,Facebook,234,98,55,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_185,user_184,Reddit,226,137,18,Drinking bottled water causes kidney failure.,Misinformation
+post_186,user_123,Twitter,54,130,81,Sanitation drives are working in rural areas.,Legitimate
+post_187,user_255,Twitter,223,75,75,Sanitation drives are working in rural areas.,Legitimate
+post_188,user_294,TikTok,68,58,54,Government hides real dangers of hand sanitizers.,Misinformation
+post_189,user_280,Reddit,141,30,91,Sanitation drives are working in rural areas.,Legitimate
+post_190,user_98,Reddit,113,92,91,Experts debate the safety of boiling water.,Legitimate
+post_191,user_198,Twitter,204,68,59,Local programs claim sanitation success.,Misinformation
+post_192,user_240,Reddit,166,51,58,Experts debate the safety of boiling water.,Legitimate
+post_193,user_144,TikTok,107,88,32,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_194,user_97,TikTok,235,126,18,Chlorinated water is a government mind control tactic.,Misinformation
+post_195,user_201,TikTok,214,30,27,East African communities adopt water filtration.,Legitimate
+post_196,user_124,Reddit,88,83,51,,Legitimate
+post_197,user_187,Reddit,133,126,48,Public toilets improve hygiene in Kampala.,Legitimate
+post_198,user_259,TikTok,227,149,36,Soap brands contain microchips for surveillance.,Misinformation
+post_199,user_148,Facebook,13,131,25,Studies show water quality impacts health.,Legitimate
+post_200,user_252,Twitter,99,12,98,,Legitimate
+post_201,user_147,Facebook,113,44,97,Studies show water quality impacts health.,Legitimate
+post_202,user_148,Reddit,128,126,98,,Legitimate
+post_203,user_199,Twitter,142,113,39,NGOs distribute water purification tablets.,Legitimate
+post_204,user_128,Twitter,105,19,79,,Legitimate
+post_205,user_39,Reddit,152,80,37,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_206,user_129,Facebook,297,128,76,New WHO guidelines promote water boiling.,Legitimate
+post_207,user_267,Facebook,37,142,86,Clean water access has improved in rural Kenya.,Legitimate
+post_208,user_151,Facebook,287,16,53,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_209,user_298,Facebook,242,57,21,More East African homes now use filtration.,Legitimate
+post_210,user_99,TikTok,26,71,15,Public toilets improve hygiene in Kampala.,Legitimate
+post_211,user_263,Twitter,68,108,27,Natural spring water prevents COVID-19.,Misinformation
+post_212,user_252,Facebook,99,22,34,Solar disinfection of water proves effective.,Legitimate
+post_213,user_144,Reddit,208,71,59,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_214,user_112,TikTok,35,7,44,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_215,user_60,Twitter,34,58,45,Local programs claim sanitation success.,Misinformation
+post_216,user_2,Reddit,276,110,71,Experts debate the safety of boiling water.,Misinformation
+post_217,user_254,TikTok,190,12,54,Solar disinfection of water proves effective.,Legitimate
+post_218,user_140,Twitter,77,15,85,Sanitation drives are working in rural areas.,Legitimate
+post_219,user_37,Reddit,58,118,84,Studies show water quality impacts health.,Misinformation
+post_220,user_160,Twitter,184,1,25,Local programs claim sanitation success.,Legitimate
+post_221,user_9,TikTok,61,144,84,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_222,user_233,Facebook,111,29,24,Mobile apps now report safe borehole locations.,Legitimate
+post_223,user_99,TikTok,225,102,64,Clean water access has improved in rural Kenya.,Legitimate
+post_224,user_147,Reddit,197,12,5,Experts debate the safety of boiling water.,Misinformation
+post_225,user_208,Facebook,66,95,22,Soap brands contain microchips for surveillance.,Misinformation
+post_226,user_131,Twitter,56,93,63,Local programs claim sanitation success.,Legitimate
+post_227,user_152,Twitter,168,81,86,Safe sanitation is key to public health.,Legitimate
+post_228,user_54,Twitter,183,12,42,Experts debate the safety of boiling water.,Misinformation
+post_229,user_120,TikTok,251,93,22,Drinking bottled water causes kidney failure.,Misinformation
+post_230,user_161,Twitter,291,148,95,,Legitimate
+post_231,user_116,Twitter,250,111,29,Tap water linked to reduced IQ.,Misinformation
+post_232,user_75,Twitter,14,54,76,Natural spring water prevents COVID-19.,Misinformation
+post_233,user_113,TikTok,93,80,17,Vaccines in water are used to track people.,Misinformation
+post_234,user_104,Reddit,257,115,86,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_235,user_254,Facebook,63,142,78,Solar disinfection of water proves effective.,Legitimate
+post_236,user_227,Twitter,170,107,96,Boiled water increases blood acidity.,Misinformation
+post_237,user_112,TikTok,235,52,20,East African communities adopt water filtration.,Legitimate
+post_238,user_99,Twitter,24,127,56,Local programs claim sanitation success.,Misinformation
+post_239,user_153,Facebook,233,56,22,Public toilets improve hygiene in Kampala.,Legitimate
+post_240,user_194,Reddit,70,51,90,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_241,user_163,Reddit,131,136,44,Local programs claim sanitation success.,Legitimate
+post_242,user_208,Twitter,286,110,43,Solar disinfection of water proves effective.,Legitimate
+post_243,user_169,Facebook,55,0,81,Drinking bottled water causes kidney failure.,Misinformation
+post_244,user_161,Twitter,71,43,87,,Misinformation
+post_245,user_68,Reddit,95,74,46,Face masks cause water contamination when washed.,Misinformation
+post_246,user_289,TikTok,219,97,39,Public toilets improve hygiene in Kampala.,Legitimate
+post_247,user_277,TikTok,87,8,50,Solar disinfection of water proves effective.,Legitimate
+post_248,user_135,TikTok,211,31,41,Solar disinfection of water proves effective.,Legitimate
+post_249,user_195,Facebook,232,14,6,NGOs distribute water purification tablets.,Legitimate
+post_250,user_128,Facebook,231,139,49,Local programs claim sanitation success.,Legitimate
+post_251,user_33,Reddit,12,135,47,East African communities adopt water filtration.,Legitimate
+post_252,user_176,Facebook,15,71,83,East African communities adopt water filtration.,Legitimate
+post_253,user_22,Reddit,102,11,90,Mobile apps now report safe borehole locations.,Legitimate
+post_254,user_238,Reddit,17,64,5,Local programs claim sanitation success.,Misinformation
+post_255,user_158,Twitter,244,106,90,,Misinformation
+post_256,user_38,TikTok,117,41,8,Public toilets improve hygiene in Kampala.,Legitimate
+post_257,user_230,TikTok,170,114,56,Clean water access has improved in rural Kenya.,Legitimate
+post_258,user_51,Reddit,218,138,30,"Sanitizer causes infertility, experts say.",Misinformation
+post_259,user_264,Facebook,249,102,20,More East African homes now use filtration.,Legitimate
+post_260,user_283,Reddit,59,94,89,Studies show water quality impacts health.,Misinformation
+post_261,user_27,TikTok,20,16,39,Boiled water increases blood acidity.,Misinformation
+post_262,user_226,Twitter,165,84,44,Mobile apps now report safe borehole locations.,Legitimate
+post_263,user_277,TikTok,79,55,76,Studies show water quality impacts health.,Legitimate
+post_264,user_286,Reddit,178,133,48,Solar disinfection of water proves effective.,Legitimate
+post_265,user_97,Reddit,281,85,86,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_266,user_284,TikTok,77,101,19,New WHO guidelines promote water boiling.,Legitimate
+post_267,user_147,TikTok,261,53,91,"Sanitizer causes infertility, experts say.",Misinformation
+post_268,user_4,Facebook,57,114,16,NGOs distribute water purification tablets.,Legitimate
+post_269,user_35,Twitter,193,138,27,East African communities adopt water filtration.,Legitimate
+post_270,user_192,TikTok,196,87,40,Western NGOs poison wells to reduce population.,Misinformation
+post_271,user_49,Twitter,99,48,65,NGOs distribute water purification tablets.,Legitimate
+post_272,user_17,Twitter,148,148,24,Local programs claim sanitation success.,Legitimate
+post_273,user_172,Facebook,98,114,57,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_274,user_220,Reddit,283,62,40,Sanitation drives are working in rural areas.,Legitimate
+post_275,user_158,Twitter,28,103,5,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_276,user_46,Twitter,163,82,74,East African communities adopt water filtration.,Legitimate
+post_277,user_6,Twitter,269,102,37,Solar disinfection of water proves effective.,Legitimate
+post_278,user_99,Twitter,117,16,5,Natural spring water prevents COVID-19.,Misinformation
+post_279,user_233,Reddit,294,5,44,Mobile apps now report safe borehole locations.,Legitimate
+post_280,user_37,Facebook,68,146,74,Western NGOs poison wells to reduce population.,Misinformation
+post_281,user_280,Twitter,134,27,13,Tap water linked to reduced IQ.,Misinformation
+post_282,user_181,TikTok,282,37,65,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_283,user_95,Reddit,116,118,39,"Sanitizer causes infertility, experts say.",Misinformation
+post_284,user_99,Facebook,254,36,2,Mobile apps now report safe borehole locations.,Legitimate
+post_285,user_188,TikTok,256,114,98,Soap brands contain microchips for surveillance.,Misinformation
+post_286,user_116,TikTok,17,67,96,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_287,user_191,TikTok,150,42,23,Safe sanitation is key to public health.,Legitimate
+post_288,user_253,Twitter,17,57,18,Solar disinfection of water proves effective.,Legitimate
+post_289,user_161,Twitter,103,12,17,Using soap daily can cause skin cancer.,Misinformation
+post_290,user_256,TikTok,48,51,63,Boiled water increases blood acidity.,Misinformation
+post_291,user_128,Facebook,90,57,87,Studies show water quality impacts health.,Legitimate
+post_292,user_18,Twitter,196,31,34,Face masks cause water contamination when washed.,Misinformation
+post_293,user_281,Facebook,93,104,61,Using soap daily can cause skin cancer.,Misinformation
+post_294,user_223,Twitter,97,82,0,NGOs distribute water purification tablets.,Legitimate
+post_295,user_54,Twitter,251,98,99,Local programs claim sanitation success.,Legitimate
+post_296,user_58,Twitter,102,103,24,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_297,user_174,Facebook,95,27,44,East African communities adopt water filtration.,Legitimate
+post_298,user_280,Twitter,53,128,48,Chlorinated water is a government mind control tactic.,Misinformation
+post_299,user_114,Facebook,146,47,97,East African communities adopt water filtration.,Legitimate
+post_300,user_288,Twitter,83,39,88,Natural spring water prevents COVID-19.,Misinformation
+post_301,user_151,Reddit,45,96,15,Sanitation drives are working in rural areas.,Legitimate
+post_302,user_127,Twitter,110,113,97,Boiled water increases blood acidity.,Misinformation
+post_303,user_155,TikTok,165,131,92,Western NGOs poison wells to reduce population.,Misinformation
+post_304,user_273,Facebook,264,136,18,Public toilets improve hygiene in Kampala.,Legitimate
+post_305,user_104,Reddit,180,110,22,Boiled water increases blood acidity.,Misinformation
+post_306,user_299,Facebook,225,143,82,Local programs claim sanitation success.,Legitimate
+post_307,user_246,Twitter,179,75,24,Chlorinated water is a government mind control tactic.,Misinformation
+post_308,user_176,TikTok,261,30,15,Public toilets improve hygiene in Kampala.,Legitimate
+post_309,user_39,TikTok,64,118,53,Experts debate the safety of boiling water.,Misinformation
+post_310,user_170,TikTok,100,141,72,Solar disinfection of water proves effective.,Legitimate
+post_311,user_247,Twitter,287,24,0,Mobile apps now report safe borehole locations.,Legitimate
+post_312,user_26,Twitter,110,33,41,Western NGOs poison wells to reduce population.,Misinformation
+post_313,user_13,TikTok,164,66,18,Clean water access has improved in rural Kenya.,Legitimate
+post_314,user_36,Twitter,150,117,96,More East African homes now use filtration.,Legitimate
+post_315,user_173,Twitter,182,72,33,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_316,user_20,Reddit,19,25,79,Solar disinfection of water proves effective.,Legitimate
+post_317,user_264,Twitter,237,147,54,More East African homes now use filtration.,Legitimate
+post_318,user_142,Reddit,274,103,17,Studies show water quality impacts health.,Legitimate
+post_319,user_143,TikTok,257,9,33,NGOs distribute water purification tablets.,Legitimate
+post_320,user_92,Facebook,256,66,88,Local programs claim sanitation success.,Legitimate
+post_321,user_288,Twitter,164,4,44,Tap water linked to reduced IQ.,Misinformation
+post_322,user_215,TikTok,43,26,5,Mobile apps now report safe borehole locations.,Legitimate
+post_323,user_51,TikTok,138,112,20,Using soap daily can cause skin cancer.,Misinformation
+post_324,user_153,Twitter,169,14,69,Public toilets improve hygiene in Kampala.,Legitimate
+post_325,user_186,Facebook,98,104,95,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_326,user_63,Facebook,102,43,47,Face masks cause water contamination when washed.,Misinformation
+post_327,user_190,Twitter,250,25,38,NGOs distribute water purification tablets.,Legitimate
+post_328,user_125,TikTok,126,94,30,,Legitimate
+post_329,user_150,Twitter,103,83,9,Studies show water quality impacts health.,Misinformation
+post_330,user_58,Facebook,172,139,29,Boiling water damages your organs.,Misinformation
+post_331,user_180,Twitter,108,131,17,"Sanitizer causes infertility, experts say.",Misinformation
+post_332,user_170,TikTok,122,86,59,Chlorinated water is a government mind control tactic.,Misinformation
+post_333,user_271,Facebook,100,111,87,Boiled water increases blood acidity.,Misinformation
+post_334,user_54,Facebook,215,128,72,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_335,user_101,Facebook,26,88,94,Chlorinated water is a government mind control tactic.,Misinformation
+post_336,user_264,TikTok,283,65,14,"Sanitizer causes infertility, experts say.",Misinformation
+post_337,user_53,Twitter,182,130,3,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_338,user_60,Facebook,125,121,62,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_339,user_108,TikTok,190,148,39,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_340,user_5,TikTok,100,83,8,Using soap daily can cause skin cancer.,Misinformation
+post_341,user_103,Reddit,91,115,8,Local programs claim sanitation success.,Misinformation
+post_342,user_196,Facebook,123,115,25,New WHO guidelines promote water boiling.,Legitimate
+post_343,user_262,TikTok,266,37,3,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_344,user_47,Twitter,67,142,80,Safe sanitation is key to public health.,Legitimate
+post_345,user_144,TikTok,163,109,15,Sanitation drives are working in rural areas.,Legitimate
+post_346,user_269,TikTok,125,45,14,Mobile apps now report safe borehole locations.,Legitimate
+post_347,user_124,Reddit,275,24,98,Solar disinfection of water proves effective.,Legitimate
+post_348,user_106,Facebook,212,20,51,Government hides real dangers of hand sanitizers.,Misinformation
+post_349,user_158,TikTok,50,120,68,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_350,user_147,Twitter,114,121,4,Vaccines in water are used to track people.,Misinformation
+post_351,user_145,Reddit,202,132,19,Local programs claim sanitation success.,Legitimate
+post_352,user_120,TikTok,287,69,78,Mobile apps now report safe borehole locations.,Legitimate
+post_353,user_275,Twitter,246,112,17,NGOs distribute water purification tablets.,Legitimate
+post_354,user_92,Facebook,230,106,1,Public toilets improve hygiene in Kampala.,Legitimate
+post_355,user_58,Reddit,77,111,92,Rainwater is safer than treated tap water.,Misinformation
+post_356,user_229,TikTok,206,107,12,East African communities adopt water filtration.,Legitimate
+post_357,user_117,Reddit,265,46,3,Western NGOs poison wells to reduce population.,Misinformation
+post_358,user_279,Twitter,148,90,41,New WHO guidelines promote water boiling.,Legitimate
+post_359,user_127,Facebook,158,17,73,Soap brands contain microchips for surveillance.,Misinformation
+post_360,user_129,Facebook,108,148,60,New WHO guidelines promote water boiling.,Legitimate
+post_361,user_58,Facebook,85,103,94,Face masks cause water contamination when washed.,Misinformation
+post_362,user_122,Facebook,291,39,7,Government hides real dangers of hand sanitizers.,Misinformation
+post_363,user_1,TikTok,118,137,66,Sanitation drives are working in rural areas.,Legitimate
+post_364,user_239,Twitter,197,88,62,Solar disinfection of water proves effective.,Legitimate
+post_365,user_290,Reddit,208,60,8,Rainwater is safer than treated tap water.,Misinformation
+post_366,user_96,TikTok,163,4,93,Western NGOs poison wells to reduce population.,Misinformation
+post_367,user_126,Reddit,49,121,10,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_368,user_118,Facebook,142,54,98,Face masks cause water contamination when washed.,Misinformation
+post_369,user_48,Twitter,141,36,41,Local programs claim sanitation success.,Misinformation
+post_370,user_89,TikTok,288,55,12,Chlorinated water is a government mind control tactic.,Misinformation
+post_371,user_237,Reddit,93,101,35,Filtered water removes essential nutrients.,Misinformation
+post_372,user_272,Reddit,251,92,12,Vaccines in water are used to track people.,Misinformation
+post_373,user_189,TikTok,125,72,11,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_374,user_192,Reddit,118,58,36,Sanitation drives are working in rural areas.,Legitimate
+post_375,user_69,Reddit,230,1,73,Clean water access has improved in rural Kenya.,Legitimate
+post_376,user_278,TikTok,50,103,72,Filtered water removes essential nutrients.,Misinformation
+post_377,user_247,Twitter,156,50,51,Government hides real dangers of hand sanitizers.,Misinformation
+post_378,user_76,TikTok,121,29,70,Experts debate the safety of boiling water.,Legitimate
+post_379,user_154,TikTok,112,10,1,Face masks cause water contamination when washed.,Misinformation
+post_380,user_144,Twitter,55,107,55,Western NGOs poison wells to reduce population.,Misinformation
+post_381,user_86,Reddit,280,75,59,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_382,user_185,TikTok,204,89,22,Experts debate the safety of boiling water.,Legitimate
+post_383,user_285,Reddit,289,122,39,Public toilets improve hygiene in Kampala.,Legitimate
+post_384,user_220,Reddit,292,124,63,Local programs claim sanitation success.,Legitimate
+post_385,user_69,Reddit,49,121,84,Clean water access has improved in rural Kenya.,Legitimate
+post_386,user_47,TikTok,198,93,22,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_387,user_94,Twitter,173,102,28,Public toilets improve hygiene in Kampala.,Legitimate
+post_388,user_238,Facebook,33,30,77,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_389,user_204,Twitter,33,51,89,East African communities adopt water filtration.,Legitimate
+post_390,user_218,TikTok,13,88,50,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_391,user_39,Twitter,299,75,68,Government hides real dangers of hand sanitizers.,Misinformation
+post_392,user_100,Facebook,190,128,94,New WHO guidelines promote water boiling.,Legitimate
+post_393,user_289,Twitter,257,21,88,Vaccines in water are used to track people.,Misinformation
+post_394,user_254,TikTok,125,39,30,Filtered water removes essential nutrients.,Misinformation
+post_395,user_222,Reddit,288,100,49,More East African homes now use filtration.,Legitimate
+post_396,user_23,Facebook,78,110,19,Boiling water damages your organs.,Misinformation
+post_397,user_250,Twitter,263,128,54,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_398,user_10,TikTok,190,64,80,Safe sanitation is key to public health.,Legitimate
+post_399,user_246,Facebook,178,148,1,East African communities adopt water filtration.,Legitimate
+post_400,user_100,Facebook,258,78,24,East African communities adopt water filtration.,Legitimate
+post_401,user_290,Twitter,197,21,12,Mobile apps now report safe borehole locations.,Legitimate
+post_402,user_180,TikTok,63,98,91,Solar disinfection of water proves effective.,Legitimate
+post_403,user_223,TikTok,147,7,69,Safe sanitation is key to public health.,Legitimate
+post_404,user_250,Facebook,177,16,66,Solar disinfection of water proves effective.,Legitimate
+post_405,user_147,Facebook,112,16,57,Local programs claim sanitation success.,Legitimate
+post_406,user_96,Reddit,94,89,98,Safe sanitation is key to public health.,Legitimate
+post_407,user_257,Twitter,221,140,81,Public toilets improve hygiene in Kampala.,Legitimate
+post_408,user_4,Reddit,12,144,74,Soap brands contain microchips for surveillance.,Misinformation
+post_409,user_16,Facebook,188,80,83,Studies show water quality impacts health.,Legitimate
+post_410,user_280,Facebook,47,77,63,Local programs claim sanitation success.,Legitimate
+post_411,user_247,TikTok,248,5,68,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_412,user_258,TikTok,178,109,82,Government hides real dangers of hand sanitizers.,Misinformation
+post_413,user_160,Reddit,39,13,85,Boiled water increases blood acidity.,Misinformation
+post_414,user_152,Facebook,199,71,58,Western NGOs poison wells to reduce population.,Misinformation
+post_415,user_178,Twitter,34,142,59,Sanitation drives are working in rural areas.,Legitimate
+post_416,user_163,TikTok,121,53,82,Vaccines in water are used to track people.,Misinformation
+post_417,user_33,TikTok,215,26,61,Tap water linked to reduced IQ.,Misinformation
+post_418,user_179,Facebook,194,12,15,Soap brands contain microchips for surveillance.,Misinformation
+post_419,user_101,Twitter,56,59,87,Experts debate the safety of boiling water.,Misinformation
+post_420,user_268,Reddit,237,5,67,,Misinformation
+post_421,user_65,Twitter,48,57,14,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_422,user_168,Facebook,25,48,88,,Legitimate
+post_423,user_43,Twitter,31,25,54,New WHO guidelines promote water boiling.,Legitimate
+post_424,user_44,Twitter,222,46,34,Studies show water quality impacts health.,Legitimate
+post_425,user_285,Facebook,158,4,54,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_426,user_12,Reddit,250,19,13,East African communities adopt water filtration.,Legitimate
+post_427,user_95,Twitter,281,133,48,NGOs distribute water purification tablets.,Legitimate
+post_428,user_253,Facebook,68,58,82,Filtered water removes essential nutrients.,Misinformation
+post_429,user_242,Twitter,296,145,99,Government hides real dangers of hand sanitizers.,Misinformation
+post_430,user_35,Facebook,211,131,6,Public toilets improve hygiene in Kampala.,Legitimate
+post_431,user_215,Reddit,41,16,29,New WHO guidelines promote water boiling.,Legitimate
+post_432,user_90,TikTok,171,13,82,Vaccines in water are used to track people.,Misinformation
+post_433,user_264,Reddit,264,12,48,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_434,user_93,TikTok,263,134,88,Local programs claim sanitation success.,Misinformation
+post_435,user_90,TikTok,18,127,15,Studies show water quality impacts health.,Legitimate
+post_436,user_115,Twitter,148,43,50,Local programs claim sanitation success.,Legitimate
+post_437,user_105,Facebook,19,118,71,Chlorinated water is a government mind control tactic.,Misinformation
+post_438,user_196,Facebook,223,142,81,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_439,user_114,Facebook,282,18,91,,Legitimate
+post_440,user_75,Reddit,57,62,79,Boiling water damages your organs.,Misinformation
+post_441,user_217,Reddit,120,80,82,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_442,user_277,Reddit,162,146,41,Sanitation drives are working in rural areas.,Legitimate
+post_443,user_249,Reddit,132,147,16,Natural spring water prevents COVID-19.,Misinformation
+post_444,user_164,Twitter,111,99,62,Clean water access has improved in rural Kenya.,Legitimate
+post_445,user_192,Twitter,250,121,44,Government hides real dangers of hand sanitizers.,Misinformation
+post_446,user_227,TikTok,200,43,76,East African communities adopt water filtration.,Legitimate
+post_447,user_177,TikTok,226,103,6,East African communities adopt water filtration.,Legitimate
+post_448,user_99,Facebook,60,60,26,East African communities adopt water filtration.,Legitimate
+post_449,user_36,Reddit,90,124,9,Studies show water quality impacts health.,Legitimate
+post_450,user_96,Twitter,97,144,33,"Sanitizer causes infertility, experts say.",Misinformation
+post_451,user_152,TikTok,203,70,35,Using soap daily can cause skin cancer.,Misinformation
+post_452,user_151,Facebook,113,106,24,East African communities adopt water filtration.,Legitimate
+post_453,user_190,Facebook,280,49,5,Face masks cause water contamination when washed.,Misinformation
+post_454,user_224,Reddit,105,64,23,Local programs claim sanitation success.,Legitimate
+post_455,user_37,Reddit,207,98,17,East African communities adopt water filtration.,Legitimate
+post_456,user_268,Facebook,10,31,86,Natural spring water prevents COVID-19.,Misinformation
+post_457,user_183,Reddit,176,140,5,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_458,user_13,Reddit,135,57,28,East African communities adopt water filtration.,Legitimate
+post_459,user_279,TikTok,90,127,24,Local programs claim sanitation success.,Misinformation
+post_460,user_217,TikTok,260,141,54,NGOs distribute water purification tablets.,Legitimate
+post_461,user_286,TikTok,178,111,80,Studies show water quality impacts health.,Legitimate
+post_462,user_273,Twitter,82,67,45,NGOs distribute water purification tablets.,Legitimate
+post_463,user_62,Reddit,150,39,23,More East African homes now use filtration.,Legitimate
+post_464,user_84,TikTok,79,143,74,Natural spring water prevents COVID-19.,Misinformation
+post_465,user_217,TikTok,271,131,25,Experts debate the safety of boiling water.,Legitimate
+post_466,user_187,Facebook,254,89,97,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_467,user_19,TikTok,12,27,27,Boiling water damages your organs.,Misinformation
+post_468,user_177,Facebook,72,95,2,Local programs claim sanitation success.,Legitimate
+post_469,user_100,Reddit,58,30,74,Studies show water quality impacts health.,Legitimate
+post_470,user_233,Facebook,85,2,37,Mobile apps now report safe borehole locations.,Legitimate
+post_471,user_76,TikTok,184,135,60,Western NGOs poison wells to reduce population.,Misinformation
+post_472,user_265,Twitter,118,23,77,"Sanitizer causes infertility, experts say.",Misinformation
+post_473,user_284,Twitter,192,14,50,Local programs claim sanitation success.,Legitimate
+post_474,user_206,Reddit,201,44,89,,Misinformation
+post_475,user_223,TikTok,74,7,47,Safe sanitation is key to public health.,Legitimate
+post_476,user_52,Reddit,280,70,20,Experts debate the safety of boiling water.,Legitimate
+post_477,user_144,Facebook,109,107,53,Solar disinfection of water proves effective.,Legitimate
+post_478,user_69,Reddit,41,114,55,More East African homes now use filtration.,Legitimate
+post_479,user_99,Twitter,137,102,93,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_480,user_25,Reddit,52,124,58,Local programs claim sanitation success.,Legitimate
+post_481,user_53,Facebook,87,56,71,East African communities adopt water filtration.,Legitimate
+post_482,user_151,TikTok,298,29,50,NGOs distribute water purification tablets.,Legitimate
+post_483,user_144,Reddit,279,145,19,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_484,user_57,Facebook,171,113,95,East African communities adopt water filtration.,Legitimate
+post_485,user_39,Twitter,198,116,85,Solar disinfection of water proves effective.,Legitimate
+post_486,user_109,TikTok,256,59,58,Local programs claim sanitation success.,Misinformation
+post_487,user_181,Reddit,225,97,70,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_488,user_42,Reddit,177,125,8,Chlorinated water is a government mind control tactic.,Misinformation
+post_489,user_186,Twitter,202,93,0,Local programs claim sanitation success.,Legitimate
+post_490,user_223,Reddit,292,133,28,Boiling water damages your organs.,Misinformation
+post_491,user_122,Twitter,22,121,62,Experts debate the safety of boiling water.,Legitimate
+post_492,user_133,Twitter,249,107,71,"Sanitizer causes infertility, experts say.",Misinformation
+post_493,user_163,TikTok,156,3,55,Tap water linked to reduced IQ.,Misinformation
+post_494,user_215,Twitter,213,92,67,New WHO guidelines promote water boiling.,Legitimate
+post_495,user_221,Twitter,89,5,34,Public toilets improve hygiene in Kampala.,Legitimate
+post_496,user_235,Twitter,52,31,2,Safe sanitation is key to public health.,Legitimate
+post_497,user_146,Reddit,98,105,6,East African communities adopt water filtration.,Legitimate
+post_498,user_239,Twitter,157,145,26,Safe sanitation is key to public health.,Legitimate
+post_499,user_76,Twitter,104,14,0,Boiling water damages your organs.,Misinformation
+post_500,user_9,Twitter,160,121,90,Studies show water quality impacts health.,Legitimate
+post_501,user_74,Twitter,11,95,79,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_502,user_253,Reddit,31,5,70,Local programs claim sanitation success.,Misinformation
+post_503,user_230,Twitter,16,111,43,Local programs claim sanitation success.,Legitimate
+post_504,user_7,Facebook,215,119,86,Rainwater is safer than treated tap water.,Misinformation
+post_505,user_174,Facebook,123,122,40,Sanitation drives are working in rural areas.,Legitimate
+post_506,user_141,Facebook,281,66,74,New WHO guidelines promote water boiling.,Legitimate
+post_507,user_168,TikTok,92,105,41,Safe sanitation is key to public health.,Legitimate
+post_508,user_170,Facebook,188,138,32,Clean water access has improved in rural Kenya.,Legitimate
+post_509,user_283,Facebook,219,42,49,More East African homes now use filtration.,Legitimate
+post_510,user_122,TikTok,133,144,62,,Legitimate
+post_511,user_194,Reddit,122,95,99,Studies show water quality impacts health.,Misinformation
+post_512,user_5,Reddit,21,131,36,Sanitation drives are working in rural areas.,Legitimate
+post_513,user_29,TikTok,135,80,58,East African communities adopt water filtration.,Legitimate
+post_514,user_165,Reddit,62,40,80,Experts debate the safety of boiling water.,Legitimate
+post_515,user_136,TikTok,292,132,98,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_516,user_145,Twitter,149,34,47,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_517,user_217,Reddit,106,21,4,Mobile apps now report safe borehole locations.,Legitimate
+post_518,user_132,TikTok,14,149,47,Local programs claim sanitation success.,Legitimate
+post_519,user_292,Twitter,66,111,95,Clean water access has improved in rural Kenya.,Legitimate
+post_520,user_70,Twitter,78,10,2,Experts debate the safety of boiling water.,Legitimate
+post_521,user_252,Facebook,127,2,46,More East African homes now use filtration.,Legitimate
+post_522,user_275,TikTok,68,136,61,Solar disinfection of water proves effective.,Legitimate
+post_523,user_182,TikTok,42,59,98,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_524,user_167,Facebook,59,75,13,NGOs distribute water purification tablets.,Legitimate
+post_525,user_91,Reddit,28,86,62,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_526,user_202,TikTok,223,13,60,,Legitimate
+post_527,user_19,Twitter,206,17,30,NGOs distribute water purification tablets.,Legitimate
+post_528,user_39,TikTok,56,112,94,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_529,user_126,Facebook,176,72,16,Soap brands contain microchips for surveillance.,Misinformation
+post_530,user_173,TikTok,298,22,23,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_531,user_141,Reddit,150,82,22,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_532,user_242,Facebook,93,124,81,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_533,user_220,Facebook,191,68,49,,Legitimate
+post_534,user_126,Twitter,88,46,77,Studies show water quality impacts health.,Legitimate
+post_535,user_58,TikTok,224,115,78,Studies show water quality impacts health.,Legitimate
+post_536,user_148,Facebook,23,29,78,Natural spring water prevents COVID-19.,Misinformation
+post_537,user_1,Reddit,224,24,69,NGOs distribute water purification tablets.,Legitimate
+post_538,user_190,Reddit,137,111,26,More East African homes now use filtration.,Legitimate
+post_539,user_191,Reddit,257,24,14,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_540,user_117,Twitter,38,73,49,Experts debate the safety of boiling water.,Legitimate
+post_541,user_134,Reddit,289,57,35,East African communities adopt water filtration.,Legitimate
+post_542,user_58,Twitter,211,93,7,Local programs claim sanitation success.,Legitimate
+post_543,user_44,Reddit,66,118,78,,Legitimate
+post_544,user_173,TikTok,227,126,2,Rainwater is safer than treated tap water.,Misinformation
+post_545,user_160,Reddit,71,24,61,Public toilets improve hygiene in Kampala.,Legitimate
+post_546,user_173,Reddit,166,77,46,Local programs claim sanitation success.,Legitimate
+post_547,user_149,Twitter,211,98,76,More East African homes now use filtration.,Legitimate
+post_548,user_80,TikTok,26,115,97,Solar disinfection of water proves effective.,Legitimate
+post_549,user_213,TikTok,15,47,87,Experts debate the safety of boiling water.,Legitimate
+post_550,user_203,Twitter,67,9,95,Tap water linked to reduced IQ.,Misinformation
+post_551,user_252,TikTok,178,98,60,Filtered water removes essential nutrients.,Misinformation
+post_552,user_229,Reddit,91,10,31,Natural spring water prevents COVID-19.,Misinformation
+post_553,user_164,Reddit,228,84,93,Mobile apps now report safe borehole locations.,Legitimate
+post_554,user_227,TikTok,186,148,12,Filtered water removes essential nutrients.,Misinformation
+post_555,user_147,Reddit,213,134,0,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_556,user_20,TikTok,80,125,33,Clean water access has improved in rural Kenya.,Legitimate
+post_557,user_47,Twitter,275,63,61,New WHO guidelines promote water boiling.,Legitimate
+post_558,user_233,Twitter,107,1,78,Drinking bottled water causes kidney failure.,Misinformation
+post_559,user_14,Twitter,217,75,77,Public toilets improve hygiene in Kampala.,Legitimate
+post_560,user_143,Facebook,11,120,92,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_561,user_1,Reddit,133,41,97,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_562,user_54,Twitter,289,53,81,Clean water access has improved in rural Kenya.,Legitimate
+post_563,user_259,TikTok,83,74,70,NGOs distribute water purification tablets.,Legitimate
+post_564,user_144,TikTok,175,15,92,Experts debate the safety of boiling water.,Legitimate
+post_565,user_12,Twitter,31,17,30,Mobile apps now report safe borehole locations.,Legitimate
+post_566,user_224,Twitter,163,89,63,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_567,user_272,Twitter,228,143,24,Solar disinfection of water proves effective.,Legitimate
+post_568,user_156,TikTok,166,5,37,NGOs distribute water purification tablets.,Legitimate
+post_569,user_8,Facebook,239,107,13,New WHO guidelines promote water boiling.,Legitimate
+post_570,user_122,Twitter,29,47,7,,Legitimate
+post_571,user_164,TikTok,50,41,90,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_572,user_90,TikTok,157,75,53,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_573,user_136,Twitter,117,76,1,Clean water access has improved in rural Kenya.,Legitimate
+post_574,user_186,Reddit,93,131,80,Tap water linked to reduced IQ.,Misinformation
+post_575,user_178,TikTok,299,129,77,Experts debate the safety of boiling water.,Legitimate
+post_576,user_28,Reddit,143,58,88,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_577,user_220,Reddit,216,26,55,Solar disinfection of water proves effective.,Legitimate
+post_578,user_41,Facebook,292,78,93,Local programs claim sanitation success.,Legitimate
+post_579,user_228,TikTok,275,71,92,Safe sanitation is key to public health.,Legitimate
+post_580,user_192,Facebook,82,6,83,Local programs claim sanitation success.,Legitimate
+post_581,user_145,Twitter,57,110,84,,Legitimate
+post_582,user_201,Facebook,242,118,60,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_583,user_212,Twitter,109,62,21,Local programs claim sanitation success.,Misinformation
+post_584,user_220,Reddit,68,123,34,Drinking bottled water causes kidney failure.,Misinformation
+post_585,user_240,TikTok,267,11,15,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_586,user_46,Facebook,74,140,49,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_587,user_35,TikTok,92,42,42,Natural spring water prevents COVID-19.,Misinformation
+post_588,user_253,Reddit,163,16,16,Solar disinfection of water proves effective.,Legitimate
+post_589,user_82,Reddit,275,62,79,New WHO guidelines promote water boiling.,Legitimate
+post_590,user_256,Reddit,88,119,57,"Sanitizer causes infertility, experts say.",Misinformation
+post_591,user_197,Reddit,159,35,1,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_592,user_10,Reddit,57,7,3,Experts debate the safety of boiling water.,Legitimate
+post_593,user_286,Reddit,257,68,84,Chlorinated water is a government mind control tactic.,Misinformation
+post_594,user_242,Facebook,287,89,38,Sanitation drives are working in rural areas.,Legitimate
+post_595,user_251,TikTok,107,35,97,Sanitation drives are working in rural areas.,Legitimate
+post_596,user_5,Facebook,34,27,93,Safe sanitation is key to public health.,Legitimate
+post_597,user_119,Reddit,293,117,5,Western NGOs poison wells to reduce population.,Misinformation
+post_598,user_289,Twitter,77,92,80,Rainwater is safer than treated tap water.,Misinformation
+post_599,user_65,Twitter,16,75,88,Boiled water increases blood acidity.,Misinformation
+post_600,user_146,Reddit,146,100,68,Solar disinfection of water proves effective.,Legitimate
+post_601,user_224,Reddit,173,143,68,Government hides real dangers of hand sanitizers.,Misinformation
+post_602,user_239,Reddit,92,13,19,Soap brands contain microchips for surveillance.,Misinformation
+post_603,user_177,TikTok,147,70,63,More East African homes now use filtration.,Legitimate
+post_604,user_267,TikTok,82,123,15,Filtered water removes essential nutrients.,Misinformation
+post_605,user_282,Facebook,246,124,50,Drinking bottled water causes kidney failure.,Misinformation
+post_606,user_63,TikTok,55,36,36,Studies show water quality impacts health.,Legitimate
+post_607,user_217,Reddit,115,28,72,Safe sanitation is key to public health.,Legitimate
+post_608,user_283,TikTok,297,142,68,Sanitation drives are working in rural areas.,Legitimate
+post_609,user_177,Twitter,271,18,41,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_610,user_98,Twitter,185,105,56,Clean water access has improved in rural Kenya.,Legitimate
+post_611,user_105,Reddit,175,20,65,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_612,user_99,TikTok,154,63,8,Experts debate the safety of boiling water.,Misinformation
+post_613,user_6,TikTok,292,26,99,Chlorinated water is a government mind control tactic.,Misinformation
+post_614,user_197,Facebook,63,54,85,Natural spring water prevents COVID-19.,Misinformation
+post_615,user_133,Facebook,187,28,63,New WHO guidelines promote water boiling.,Legitimate
+post_616,user_259,Twitter,253,147,85,Mobile apps now report safe borehole locations.,Legitimate
+post_617,user_23,Reddit,136,24,21,Public toilets improve hygiene in Kampala.,Legitimate
+post_618,user_53,Twitter,280,69,33,Studies show water quality impacts health.,Legitimate
+post_619,user_165,Reddit,141,62,54,Government hides real dangers of hand sanitizers.,Misinformation
+post_620,user_202,Reddit,102,129,28,Tap water linked to reduced IQ.,Misinformation
+post_621,user_83,Reddit,82,149,37,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_622,user_145,Reddit,257,15,96,Sanitation drives are working in rural areas.,Legitimate
+post_623,user_85,TikTok,282,145,17,"Sanitizer causes infertility, experts say.",Misinformation
+post_624,user_78,Reddit,52,99,70,Local programs claim sanitation success.,Legitimate
+post_625,user_1,TikTok,50,29,64,Chlorinated water is a government mind control tactic.,Misinformation
+post_626,user_51,Reddit,179,44,96,,Legitimate
+post_627,user_173,TikTok,221,18,0,Mobile apps now report safe borehole locations.,Legitimate
+post_628,user_205,TikTok,177,33,87,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_629,user_260,Twitter,48,140,3,Mobile apps now report safe borehole locations.,Legitimate
+post_630,user_288,Twitter,254,61,3,Mobile apps now report safe borehole locations.,Legitimate
+post_631,user_34,Facebook,160,117,81,East African communities adopt water filtration.,Legitimate
+post_632,user_95,Twitter,120,99,26,East African communities adopt water filtration.,Legitimate
+post_633,user_72,Twitter,56,21,42,More East African homes now use filtration.,Legitimate
+post_634,user_39,Reddit,72,110,58,Local programs claim sanitation success.,Misinformation
+post_635,user_154,Facebook,234,72,31,Solar disinfection of water proves effective.,Legitimate
+post_636,user_250,Twitter,78,146,32,Mobile apps now report safe borehole locations.,Legitimate
+post_637,user_162,Twitter,299,37,27,East African communities adopt water filtration.,Legitimate
+post_638,user_118,TikTok,212,69,54,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_639,user_259,Facebook,70,115,99,Sanitation drives are working in rural areas.,Legitimate
+post_640,user_268,Facebook,170,78,59,New WHO guidelines promote water boiling.,Legitimate
+post_641,user_54,Facebook,25,147,69,Public toilets improve hygiene in Kampala.,Legitimate
+post_642,user_236,TikTok,103,8,61,New WHO guidelines promote water boiling.,Legitimate
+post_643,user_222,Facebook,147,31,79,NGOs distribute water purification tablets.,Legitimate
+post_644,user_251,Facebook,47,131,33,Studies show water quality impacts health.,Legitimate
+post_645,user_112,TikTok,136,49,86,Natural spring water prevents COVID-19.,Misinformation
+post_646,user_255,Facebook,284,81,87,Experts debate the safety of boiling water.,Misinformation
+post_647,user_207,Facebook,173,4,55,Drinking bottled water causes kidney failure.,Misinformation
+post_648,user_229,Reddit,86,147,12,Chlorinated water is a government mind control tactic.,Misinformation
+post_649,user_66,Twitter,183,86,55,Clean water access has improved in rural Kenya.,Legitimate
+post_650,user_75,Facebook,100,125,17,East African communities adopt water filtration.,Legitimate
+post_651,user_103,TikTok,247,74,53,Local programs claim sanitation success.,Legitimate
+post_652,user_192,Reddit,273,21,76,Mobile apps now report safe borehole locations.,Legitimate
+post_653,user_252,Twitter,188,67,42,Local programs claim sanitation success.,Misinformation
+post_654,user_226,Twitter,218,43,38,Mobile apps now report safe borehole locations.,Legitimate
+post_655,user_294,Reddit,82,33,60,Safe sanitation is key to public health.,Legitimate
+post_656,user_98,TikTok,116,76,41,Local programs claim sanitation success.,Misinformation
+post_657,user_286,Twitter,293,41,80,Boiling water damages your organs.,Misinformation
+post_658,user_249,Twitter,191,136,78,Experts debate the safety of boiling water.,Legitimate
+post_659,user_166,Twitter,46,105,17,Western NGOs poison wells to reduce population.,Misinformation
+post_660,user_30,Facebook,146,94,22,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_661,user_247,Facebook,65,134,53,Natural spring water prevents COVID-19.,Misinformation
+post_662,user_106,Reddit,196,67,29,Solar disinfection of water proves effective.,Legitimate
+post_663,user_51,Reddit,267,146,97,Soap brands contain microchips for surveillance.,Misinformation
+post_664,user_81,TikTok,67,127,57,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_665,user_133,TikTok,132,84,67,Local programs claim sanitation success.,Legitimate
+post_666,user_285,Reddit,197,82,66,Experts debate the safety of boiling water.,Legitimate
+post_667,user_138,TikTok,239,94,70,Drinking bottled water causes kidney failure.,Misinformation
+post_668,user_184,Twitter,177,31,17,Boiling water damages your organs.,Misinformation
+post_669,user_273,Twitter,123,65,6,New WHO guidelines promote water boiling.,Legitimate
+post_670,user_69,TikTok,261,115,39,New WHO guidelines promote water boiling.,Legitimate
+post_671,user_34,TikTok,116,137,69,Local programs claim sanitation success.,Legitimate
+post_672,user_262,Reddit,46,129,85,Sanitation drives are working in rural areas.,Legitimate
+post_673,user_53,Reddit,101,59,64,Western NGOs poison wells to reduce population.,Misinformation
+post_674,user_205,TikTok,27,16,67,"Sanitizer causes infertility, experts say.",Misinformation
+post_675,user_126,Twitter,72,95,48,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_676,user_235,Facebook,159,143,51,Clean water access has improved in rural Kenya.,Legitimate
+post_677,user_43,TikTok,148,15,28,Using soap daily can cause skin cancer.,Misinformation
+post_678,user_240,Reddit,195,45,20,Safe sanitation is key to public health.,Legitimate
+post_679,user_111,Reddit,194,106,89,Vaccines in water are used to track people.,Misinformation
+post_680,user_249,TikTok,214,87,77,Experts debate the safety of boiling water.,Misinformation
+post_681,user_151,Reddit,269,128,8,Sanitation drives are working in rural areas.,Legitimate
+post_682,user_183,Twitter,223,138,46,Public toilets improve hygiene in Kampala.,Legitimate
+post_683,user_95,Reddit,265,118,75,,Misinformation
+post_684,user_8,Facebook,144,84,41,Sanitation drives are working in rural areas.,Legitimate
+post_685,user_184,Facebook,70,3,50,Studies show water quality impacts health.,Legitimate
+post_686,user_281,Twitter,97,70,55,NGOs distribute water purification tablets.,Legitimate
+post_687,user_195,Reddit,216,110,50,Soap brands contain microchips for surveillance.,Misinformation
+post_688,user_195,Reddit,138,49,69,NGOs distribute water purification tablets.,Legitimate
+post_689,user_155,TikTok,12,139,19,Soap brands contain microchips for surveillance.,Misinformation
+post_690,user_93,Facebook,251,94,87,Safe sanitation is key to public health.,Legitimate
+post_691,user_160,TikTok,130,91,26,Solar disinfection of water proves effective.,Legitimate
+post_692,user_61,TikTok,111,64,37,Natural spring water prevents COVID-19.,Misinformation
+post_693,user_122,Reddit,47,46,71,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_694,user_51,Facebook,142,105,64,,Legitimate
+post_695,user_277,TikTok,211,129,53,Safe sanitation is key to public health.,Legitimate
+post_696,user_5,Reddit,30,105,23,Safe sanitation is key to public health.,Legitimate
+post_697,user_92,Twitter,251,23,46,East African communities adopt water filtration.,Legitimate
+post_698,user_170,Facebook,118,3,70,Clean water access has improved in rural Kenya.,Legitimate
+post_699,user_22,Reddit,93,107,82,Public toilets improve hygiene in Kampala.,Legitimate
+post_700,user_1,Twitter,92,18,85,Western NGOs poison wells to reduce population.,Misinformation
+post_701,user_133,TikTok,78,39,62,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_702,user_233,TikTok,138,49,56,Solar disinfection of water proves effective.,Legitimate
+post_703,user_12,TikTok,205,74,54,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_704,user_46,Twitter,149,11,59,Soap brands contain microchips for surveillance.,Misinformation
+post_705,user_34,Twitter,292,26,98,Chlorinated water is a government mind control tactic.,Misinformation
+post_706,user_78,TikTok,243,112,61,Local programs claim sanitation success.,Legitimate
+post_707,user_218,TikTok,32,48,29,Experts debate the safety of boiling water.,Legitimate
+post_708,user_73,Twitter,162,143,92,More East African homes now use filtration.,Legitimate
+post_709,user_282,Reddit,286,129,21,Tap water linked to reduced IQ.,Misinformation
+post_710,user_249,Facebook,70,59,74,Face masks cause water contamination when washed.,Misinformation
+post_711,user_47,TikTok,61,29,83,New WHO guidelines promote water boiling.,Legitimate
+post_712,user_121,Twitter,162,83,28,Using soap daily can cause skin cancer.,Misinformation
+post_713,user_214,Reddit,246,27,40,Western NGOs poison wells to reduce population.,Misinformation
+post_714,user_239,Reddit,41,24,41,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_715,user_56,Reddit,64,95,97,East African communities adopt water filtration.,Legitimate
+post_716,user_107,TikTok,45,124,64,Safe sanitation is key to public health.,Legitimate
+post_717,user_48,Twitter,119,9,30,Local programs claim sanitation success.,Legitimate
+post_718,user_61,Facebook,186,41,29,Boiled water increases blood acidity.,Misinformation
+post_719,user_26,Twitter,106,39,17,Mobile apps now report safe borehole locations.,Legitimate
+post_720,user_292,Twitter,222,76,16,Rainwater is safer than treated tap water.,Misinformation
+post_721,user_257,Reddit,146,104,37,Studies show water quality impacts health.,Legitimate
+post_722,user_8,Facebook,15,117,13,More East African homes now use filtration.,Legitimate
+post_723,user_113,TikTok,118,41,86,Clean water access has improved in rural Kenya.,Legitimate
+post_724,user_253,TikTok,44,46,88,East African communities adopt water filtration.,Legitimate
+post_725,user_180,Reddit,48,21,78,Clean water access has improved in rural Kenya.,Legitimate
+post_726,user_207,TikTok,159,106,55,Clean water access has improved in rural Kenya.,Legitimate
+post_727,user_127,Twitter,127,26,21,Boiled water increases blood acidity.,Misinformation
+post_728,user_56,Reddit,270,40,66,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_729,user_214,Facebook,96,79,55,Sanitation drives are working in rural areas.,Legitimate
+post_730,user_14,Twitter,85,88,18,Soap brands contain microchips for surveillance.,Misinformation
+post_731,user_28,Facebook,223,65,56,,Legitimate
+post_732,user_78,Facebook,294,11,43,East African communities adopt water filtration.,Legitimate
+post_733,user_216,Twitter,248,72,97,Solar disinfection of water proves effective.,Legitimate
+post_734,user_154,Facebook,174,75,34,,Legitimate
+post_735,user_14,Reddit,96,89,0,Drinking bottled water causes kidney failure.,Misinformation
+post_736,user_187,Reddit,150,9,51,Experts debate the safety of boiling water.,Legitimate
+post_737,user_7,Twitter,169,95,84,Safe sanitation is key to public health.,Legitimate
+post_738,user_3,TikTok,55,19,92,Studies show water quality impacts health.,Misinformation
+post_739,user_111,Facebook,121,38,69,NGOs distribute water purification tablets.,Legitimate
+post_740,user_238,Twitter,54,59,36,Sanitation drives are working in rural areas.,Legitimate
+post_741,user_239,Facebook,256,65,64,Boiling water damages your organs.,Misinformation
+post_742,user_274,Twitter,113,64,50,Chlorinated water is a government mind control tactic.,Misinformation
+post_743,user_294,Facebook,94,123,0,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_744,user_227,TikTok,143,129,90,Mobile apps now report safe borehole locations.,Legitimate
+post_745,user_15,Twitter,117,56,20,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_746,user_192,Reddit,27,77,52,Local programs claim sanitation success.,Legitimate
+post_747,user_119,TikTok,103,28,15,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_748,user_28,Reddit,159,14,60,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_749,user_202,TikTok,255,11,53,More East African homes now use filtration.,Legitimate
+post_750,user_39,Reddit,298,100,39,Experts debate the safety of boiling water.,Legitimate
+post_751,user_273,TikTok,218,83,25,"Sanitizer causes infertility, experts say.",Misinformation
+post_752,user_231,Facebook,135,124,79,More East African homes now use filtration.,Legitimate
+post_753,user_86,Reddit,244,102,91,More East African homes now use filtration.,Legitimate
+post_754,user_126,Facebook,131,23,64,Studies show water quality impacts health.,Legitimate
+post_755,user_300,Twitter,147,148,99,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_756,user_25,Facebook,124,137,73,Chlorinated water is a government mind control tactic.,Misinformation
+post_757,user_145,Reddit,171,109,63,,Legitimate
+post_758,user_13,TikTok,210,77,42,Public toilets improve hygiene in Kampala.,Legitimate
+post_759,user_212,Facebook,243,100,16,Safe sanitation is key to public health.,Legitimate
+post_760,user_25,TikTok,37,145,58,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_761,user_68,Twitter,20,141,22,Clean water access has improved in rural Kenya.,Legitimate
+post_762,user_67,Twitter,215,127,6,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_763,user_233,Reddit,176,57,43,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_764,user_109,TikTok,256,75,52,Soap brands contain microchips for surveillance.,Misinformation
+post_765,user_146,Facebook,56,149,70,Public toilets improve hygiene in Kampala.,Legitimate
+post_766,user_111,Facebook,255,35,78,Safe sanitation is key to public health.,Legitimate
+post_767,user_228,Twitter,136,21,33,Local programs claim sanitation success.,Legitimate
+post_768,user_111,TikTok,156,126,45,Solar disinfection of water proves effective.,Legitimate
+post_769,user_34,TikTok,127,79,67,,Misinformation
+post_770,user_111,Twitter,161,99,77,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_771,user_264,Facebook,81,95,77,Chlorinated water is a government mind control tactic.,Misinformation
+post_772,user_236,Twitter,146,147,15,Safe sanitation is key to public health.,Legitimate
+post_773,user_83,TikTok,184,17,70,Rainwater is safer than treated tap water.,Misinformation
+post_774,user_42,Facebook,298,37,95,,Legitimate
+post_775,user_101,Twitter,28,108,18,Studies show water quality impacts health.,Misinformation
+post_776,user_6,TikTok,204,122,1,East African communities adopt water filtration.,Legitimate
+post_777,user_180,TikTok,184,143,9,Studies show water quality impacts health.,Legitimate
+post_778,user_282,Reddit,150,148,49,Vaccines in water are used to track people.,Misinformation
+post_779,user_226,Reddit,255,103,80,Safe sanitation is key to public health.,Legitimate
+post_780,user_229,Twitter,102,139,11,Solar disinfection of water proves effective.,Legitimate
+post_781,user_289,Facebook,248,143,69,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_782,user_150,Facebook,214,80,21,Face masks cause water contamination when washed.,Misinformation
+post_783,user_277,Reddit,57,86,31,More East African homes now use filtration.,Legitimate
+post_784,user_198,TikTok,254,141,83,Natural spring water prevents COVID-19.,Misinformation
+post_785,user_70,Reddit,137,60,0,Studies show water quality impacts health.,Misinformation
+post_786,user_112,Twitter,291,45,53,Public toilets improve hygiene in Kampala.,Legitimate
+post_787,user_4,Reddit,26,31,57,Vaccines in water are used to track people.,Misinformation
+post_788,user_95,Facebook,80,14,69,Clean water access has improved in rural Kenya.,Legitimate
+post_789,user_152,Twitter,278,43,82,Mobile apps now report safe borehole locations.,Legitimate
+post_790,user_137,Facebook,291,144,17,Drinking bottled water causes kidney failure.,Misinformation
+post_791,user_247,Twitter,16,53,5,Filtered water removes essential nutrients.,Misinformation
+post_792,user_243,TikTok,112,43,44,NGOs distribute water purification tablets.,Legitimate
+post_793,user_31,Reddit,202,97,96,More East African homes now use filtration.,Legitimate
+post_794,user_40,Facebook,250,4,22,Experts debate the safety of boiling water.,Legitimate
+post_795,user_229,Twitter,71,108,22,Solar disinfection of water proves effective.,Legitimate
+post_796,user_36,Reddit,26,26,25,East African communities adopt water filtration.,Legitimate
+post_797,user_223,Facebook,180,115,76,Sanitation drives are working in rural areas.,Legitimate
+post_798,user_6,TikTok,34,86,6,Safe sanitation is key to public health.,Legitimate
+post_799,user_220,Twitter,260,103,78,Solar disinfection of water proves effective.,Legitimate
+post_800,user_75,Facebook,262,122,43,Experts debate the safety of boiling water.,Legitimate
+post_801,user_4,Facebook,216,78,26,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_802,user_134,TikTok,38,42,25,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_803,user_118,Twitter,126,96,96,Soap brands contain microchips for surveillance.,Misinformation
+post_804,user_94,Reddit,291,30,78,Public toilets improve hygiene in Kampala.,Legitimate
+post_805,user_62,Facebook,153,98,35,"Sanitizer causes infertility, experts say.",Misinformation
+post_806,user_194,Twitter,34,16,54,Boiled water increases blood acidity.,Misinformation
+post_807,user_203,Twitter,165,82,63,Clean water access has improved in rural Kenya.,Legitimate
+post_808,user_26,TikTok,82,109,90,Filtered water removes essential nutrients.,Misinformation
+post_809,user_173,Facebook,129,31,56,Boiled water increases blood acidity.,Misinformation
+post_810,user_300,Reddit,102,140,68,New WHO guidelines promote water boiling.,Legitimate
+post_811,user_133,Facebook,95,34,60,Mobile apps now report safe borehole locations.,Legitimate
+post_812,user_118,Facebook,127,132,1,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_813,user_275,Reddit,242,28,54,NGOs distribute water purification tablets.,Legitimate
+post_814,user_212,Twitter,208,69,96,Mobile apps now report safe borehole locations.,Legitimate
+post_815,user_225,Facebook,215,94,79,NGOs distribute water purification tablets.,Legitimate
+post_816,user_20,Twitter,156,21,86,Clean water access has improved in rural Kenya.,Legitimate
+post_817,user_113,TikTok,280,68,37,Local programs claim sanitation success.,Legitimate
+post_818,user_140,Twitter,148,88,79,Using soap daily can cause skin cancer.,Misinformation
+post_819,user_47,Reddit,190,71,77,Solar disinfection of water proves effective.,Legitimate
+post_820,user_1,Reddit,39,128,28,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_821,user_90,TikTok,66,86,25,Tap water linked to reduced IQ.,Misinformation
+post_822,user_142,Twitter,241,95,34,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_823,user_38,Facebook,155,74,78,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_824,user_293,TikTok,57,53,66,New WHO guidelines promote water boiling.,Legitimate
+post_825,user_139,Reddit,203,87,86,Sanitation drives are working in rural areas.,Legitimate
+post_826,user_259,Twitter,233,53,28,"Sanitizer causes infertility, experts say.",Misinformation
+post_827,user_161,Reddit,145,15,33,Experts debate the safety of boiling water.,Legitimate
+post_828,user_178,Facebook,31,98,96,,Misinformation
+post_829,user_10,TikTok,15,19,40,New WHO guidelines promote water boiling.,Legitimate
+post_830,user_261,TikTok,213,45,40,New WHO guidelines promote water boiling.,Legitimate
+post_831,user_138,Reddit,248,126,22,Local programs claim sanitation success.,Legitimate
+post_832,user_172,TikTok,194,57,70,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_833,user_13,Twitter,229,110,2,Solar disinfection of water proves effective.,Legitimate
+post_834,user_168,Twitter,125,128,57,Soap brands contain microchips for surveillance.,Misinformation
+post_835,user_130,Reddit,58,80,31,Experts debate the safety of boiling water.,Misinformation
+post_836,user_84,Reddit,182,83,30,Public toilets improve hygiene in Kampala.,Legitimate
+post_837,user_101,TikTok,91,69,81,Drinking bottled water causes kidney failure.,Misinformation
+post_838,user_273,Reddit,54,7,42,Rainwater is safer than treated tap water.,Misinformation
+post_839,user_265,Twitter,29,28,6,Studies show water quality impacts health.,Legitimate
+post_840,user_38,Facebook,230,111,0,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_841,user_94,Twitter,132,130,60,Public toilets improve hygiene in Kampala.,Legitimate
+post_842,user_95,TikTok,243,107,13,Clean water access has improved in rural Kenya.,Legitimate
+post_843,user_69,Reddit,230,108,51,NGOs distribute water purification tablets.,Legitimate
+post_844,user_236,Reddit,12,19,95,Experts debate the safety of boiling water.,Legitimate
+post_845,user_137,Reddit,191,72,5,NGOs distribute water purification tablets.,Legitimate
+post_846,user_76,TikTok,215,3,9,More East African homes now use filtration.,Legitimate
+post_847,user_35,Facebook,49,18,70,Mobile apps now report safe borehole locations.,Legitimate
+post_848,user_1,TikTok,68,101,89,Tap water linked to reduced IQ.,Misinformation
+post_849,user_296,Twitter,71,140,97,Soap brands contain microchips for surveillance.,Misinformation
+post_850,user_60,Facebook,141,140,29,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_851,user_267,Reddit,69,85,99,Natural spring water prevents COVID-19.,Misinformation
+post_852,user_229,Twitter,131,51,20,,Legitimate
+post_853,user_270,Reddit,116,110,59,Tap water linked to reduced IQ.,Misinformation
+post_854,user_286,Facebook,105,108,80,Studies show water quality impacts health.,Legitimate
+post_855,user_291,TikTok,244,85,96,"Sanitizer causes infertility, experts say.",Misinformation
+post_856,user_213,Twitter,71,42,73,Experts debate the safety of boiling water.,Misinformation
+post_857,user_165,TikTok,265,41,62,Safe sanitation is key to public health.,Legitimate
+post_858,user_5,Twitter,58,89,41,Experts debate the safety of boiling water.,Legitimate
+post_859,user_78,Reddit,168,114,50,Experts debate the safety of boiling water.,Legitimate
+post_860,user_62,Reddit,133,25,63,Studies show water quality impacts health.,Legitimate
+post_861,user_132,TikTok,216,42,75,,Misinformation
+post_862,user_89,Reddit,57,76,55,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_863,user_237,Facebook,145,136,79,Safe sanitation is key to public health.,Legitimate
+post_864,user_42,Facebook,210,19,40,East African communities adopt water filtration.,Legitimate
+post_865,user_89,Facebook,259,38,31,Studies show water quality impacts health.,Legitimate
+post_866,user_296,Facebook,218,11,14,Clean water access has improved in rural Kenya.,Legitimate
+post_867,user_295,Twitter,220,10,61,Filtered water removes essential nutrients.,Misinformation
+post_868,user_104,Twitter,201,41,26,East African communities adopt water filtration.,Legitimate
+post_869,user_14,Facebook,53,10,27,Boiling water damages your organs.,Misinformation
+post_870,user_288,Twitter,38,37,80,Clean water access has improved in rural Kenya.,Legitimate
+post_871,user_179,Facebook,68,97,63,Clean water access has improved in rural Kenya.,Legitimate
+post_872,user_125,TikTok,80,18,58,Using soap daily can cause skin cancer.,Misinformation
+post_873,user_23,Twitter,101,133,57,More East African homes now use filtration.,Legitimate
+post_874,user_63,Facebook,274,115,1,Public toilets improve hygiene in Kampala.,Legitimate
+post_875,user_143,Facebook,229,112,35,NGOs distribute water purification tablets.,Legitimate
+post_876,user_153,TikTok,224,64,70,Sanitation drives are working in rural areas.,Legitimate
+post_877,user_145,TikTok,286,98,12,Sanitation drives are working in rural areas.,Legitimate
+post_878,user_225,Reddit,73,71,14,Studies show water quality impacts health.,Misinformation
+post_879,user_104,Facebook,254,51,88,,Misinformation
+post_880,user_104,Reddit,71,117,86,Boiling water damages your organs.,Misinformation
+post_881,user_39,Twitter,179,119,59,Soap brands contain microchips for surveillance.,Misinformation
+post_882,user_198,Facebook,278,6,21,Local programs claim sanitation success.,Legitimate
+post_883,user_134,Facebook,276,10,62,Local programs claim sanitation success.,Legitimate
+post_884,user_67,Twitter,63,102,89,Clean water access has improved in rural Kenya.,Legitimate
+post_885,user_179,TikTok,25,60,96,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_886,user_42,Facebook,17,67,74,NGOs distribute water purification tablets.,Legitimate
+post_887,user_15,TikTok,113,139,73,Experts debate the safety of boiling water.,Legitimate
+post_888,user_111,Facebook,68,101,24,"Sanitizer causes infertility, experts say.",Misinformation
+post_889,user_157,Reddit,49,109,47,NGOs distribute water purification tablets.,Legitimate
+post_890,user_289,TikTok,246,139,42,Mobile apps now report safe borehole locations.,Legitimate
+post_891,user_231,Reddit,103,50,37,Clean water access has improved in rural Kenya.,Legitimate
+post_892,user_157,Facebook,231,116,40,Experts debate the safety of boiling water.,Misinformation
+post_893,user_38,Reddit,213,45,44,,Legitimate
+post_894,user_97,Facebook,147,52,87,New WHO guidelines promote water boiling.,Legitimate
+post_895,user_289,Facebook,216,87,39,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_896,user_254,Reddit,90,120,96,Safe sanitation is key to public health.,Legitimate
+post_897,user_196,Facebook,227,12,16,Local programs claim sanitation success.,Legitimate
+post_898,user_86,Twitter,11,88,87,Drinking bottled water causes kidney failure.,Misinformation
+post_899,user_10,Facebook,187,124,56,Solar disinfection of water proves effective.,Legitimate
+post_900,user_5,Facebook,288,117,1,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_901,user_123,Twitter,155,53,95,Solar disinfection of water proves effective.,Legitimate
+post_902,user_118,TikTok,233,115,61,Sanitation drives are working in rural areas.,Legitimate
+post_903,user_294,Twitter,71,117,87,New WHO guidelines promote water boiling.,Legitimate
+post_904,user_159,Twitter,248,3,8,Experts debate the safety of boiling water.,Legitimate
+post_905,user_228,Twitter,204,74,67,New WHO guidelines promote water boiling.,Legitimate
+post_906,user_216,Twitter,175,48,80,Sanitation drives are working in rural areas.,Legitimate
+post_907,user_184,TikTok,231,6,16,Face masks cause water contamination when washed.,Misinformation
+post_908,user_15,Facebook,70,109,49,Solar disinfection of water proves effective.,Legitimate
+post_909,user_157,Reddit,138,121,93,Studies show water quality impacts health.,Legitimate
+post_910,user_136,TikTok,182,10,39,Tap water linked to reduced IQ.,Misinformation
+post_911,user_261,TikTok,165,91,57,Sanitation drives are working in rural areas.,Legitimate
+post_912,user_157,Facebook,119,22,74,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_913,user_47,Twitter,278,27,84,Local programs claim sanitation success.,Misinformation
+post_914,user_173,Twitter,287,110,20,Mobile apps now report safe borehole locations.,Legitimate
+post_915,user_130,TikTok,83,56,17,,Misinformation
+post_916,user_95,Reddit,216,25,54,More East African homes now use filtration.,Legitimate
+post_917,user_115,Twitter,288,53,28,Chlorinated water is a government mind control tactic.,Misinformation
+post_918,user_243,TikTok,213,28,23,Mobile apps now report safe borehole locations.,Legitimate
+post_919,user_292,Reddit,170,96,73,Clean water access has improved in rural Kenya.,Legitimate
+post_920,user_282,Reddit,37,13,16,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_921,user_299,Reddit,266,77,17,Solar disinfection of water proves effective.,Legitimate
+post_922,user_283,Reddit,174,34,41,Boiled water increases blood acidity.,Misinformation
+post_923,user_69,TikTok,72,29,83,Experts debate the safety of boiling water.,Legitimate
+post_924,user_148,TikTok,31,91,44,,Legitimate
+post_925,user_11,Reddit,79,16,81,Rainwater is safer than treated tap water.,Misinformation
+post_926,user_254,Twitter,105,92,16,Sanitation drives are working in rural areas.,Legitimate
+post_927,user_38,Twitter,172,78,72,Local programs claim sanitation success.,Misinformation
+post_928,user_134,TikTok,88,109,13,Drinking bottled water causes kidney failure.,Misinformation
+post_929,user_200,Reddit,14,101,48,Safe sanitation is key to public health.,Legitimate
+post_930,user_23,Reddit,129,105,28,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_931,user_218,TikTok,187,46,94,Solar disinfection of water proves effective.,Legitimate
+post_932,user_141,TikTok,185,63,3,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_933,user_104,TikTok,226,63,81,Face masks cause water contamination when washed.,Misinformation
+post_934,user_210,Facebook,65,86,19,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_935,user_111,Facebook,196,6,46,Soap brands contain microchips for surveillance.,Misinformation
+post_936,user_104,Reddit,241,21,8,Clean water access has improved in rural Kenya.,Legitimate
+post_937,user_171,Facebook,264,80,76,Studies show water quality impacts health.,Misinformation
+post_938,user_133,Twitter,113,73,78,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_939,user_293,Reddit,86,137,26,,Legitimate
+post_940,user_127,Facebook,239,134,14,Local programs claim sanitation success.,Legitimate
+post_941,user_106,Reddit,267,124,91,Vaccines in water are used to track people.,Misinformation
+post_942,user_92,Twitter,273,49,18,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_943,user_287,Twitter,191,51,89,Face masks cause water contamination when washed.,Misinformation
+post_944,user_51,Reddit,265,0,51,Public toilets improve hygiene in Kampala.,Legitimate
+post_945,user_29,Facebook,47,3,25,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_946,user_296,Reddit,185,144,88,Mobile apps now report safe borehole locations.,Legitimate
+post_947,user_297,Twitter,36,131,25,Sanitation drives are working in rural areas.,Legitimate
+post_948,user_214,Facebook,285,3,25,Public toilets improve hygiene in Kampala.,Legitimate
+post_949,user_267,Facebook,149,0,45,Boiling water damages your organs.,Misinformation
+post_950,user_257,TikTok,296,70,91,Chlorinated water is a government mind control tactic.,Misinformation
+post_951,user_101,Reddit,100,34,48,,Misinformation
+post_952,user_110,Twitter,70,7,81,Vaccines in water are used to track people.,Misinformation
+post_953,user_182,Twitter,172,35,95,Public toilets improve hygiene in Kampala.,Legitimate
+post_954,user_1,Reddit,152,122,52,Experts debate the safety of boiling water.,Legitimate
+post_955,user_55,Reddit,262,42,2,Sanitation drives are working in rural areas.,Legitimate
+post_956,user_149,Twitter,278,26,65,Western NGOs poison wells to reduce population.,Misinformation
+post_957,user_137,Twitter,196,31,96,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_958,user_202,Reddit,95,77,41,Solar disinfection of water proves effective.,Legitimate
+post_959,user_117,Reddit,175,120,18,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_960,user_154,Facebook,123,145,16,Clean water access has improved in rural Kenya.,Legitimate
+post_961,user_291,TikTok,192,15,32,Experts debate the safety of boiling water.,Misinformation
+post_962,user_63,Twitter,216,98,75,Boiling water damages your organs.,Misinformation
+post_963,user_244,Facebook,265,46,48,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_964,user_25,Reddit,244,30,55,Rainwater is safer than treated tap water.,Misinformation
+post_965,user_90,TikTok,12,3,62,Sanitation drives are working in rural areas.,Legitimate
+post_966,user_75,Twitter,217,16,2,,Legitimate
+post_967,user_294,TikTok,206,38,48,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_968,user_210,Facebook,134,47,54,Sanitation drives are working in rural areas.,Legitimate
+post_969,user_17,Reddit,147,38,25,New WHO guidelines promote water boiling.,Legitimate
+post_970,user_128,Facebook,34,131,98,"Sanitizer causes infertility, experts say.",Misinformation
+post_971,user_251,TikTok,77,29,71,East African communities adopt water filtration.,Legitimate
+post_972,user_179,Facebook,70,21,51,Drinking bottled water causes kidney failure.,Misinformation
+post_973,user_182,Facebook,38,65,99,Solar disinfection of water proves effective.,Legitimate
+post_974,user_152,Reddit,28,107,6,Rainwater harvesting gains popularity in Uganda.,Legitimate
+post_975,user_25,Reddit,180,11,45,Mobile apps now report safe borehole locations.,Legitimate
+post_976,user_180,TikTok,83,35,45,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_977,user_198,TikTok,70,17,99,East African communities adopt water filtration.,Legitimate
+post_978,user_161,Facebook,162,89,15,Rainwater is safer than treated tap water.,Misinformation
+post_979,user_177,Twitter,285,0,23,Mobile apps now report safe borehole locations.,Legitimate
+post_980,user_285,Facebook,57,126,60,Proper handwashing reduces cholera outbreaks.,Legitimate
+post_981,user_63,TikTok,220,89,53,NGOs distribute water purification tablets.,Legitimate
+post_982,user_150,Facebook,148,86,61,Tap water linked to reduced IQ.,Misinformation
+post_983,user_154,Reddit,119,89,0,New WHO guidelines promote water boiling.,Legitimate
+post_984,user_156,Facebook,192,133,48,Mobile apps now report safe borehole locations.,Legitimate
+post_985,user_49,Reddit,37,69,24,Public toilets improve hygiene in Kampala.,Legitimate
+post_986,user_84,Twitter,206,43,9,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_987,user_177,Reddit,200,85,79,NGOs distribute water purification tablets.,Legitimate
+post_988,user_148,Twitter,60,18,15,UNICEF supports safe water projects in Ethiopia.,Legitimate
+post_989,user_118,Twitter,158,100,57,More East African homes now use filtration.,Legitimate
+post_990,user_63,Facebook,277,145,71,Natural spring water prevents COVID-19.,Misinformation
+post_991,user_189,TikTok,59,94,28,Experts debate the safety of boiling water.,Legitimate
+post_992,user_49,TikTok,255,100,91,New WHO guidelines promote water boiling.,Legitimate
+post_993,user_257,Facebook,122,29,5,Safe sanitation is key to public health.,Legitimate
+post_994,user_224,Twitter,179,32,15,Experts debate the safety of boiling water.,Legitimate
+post_995,user_141,TikTok,175,11,19,Vaccines in water are used to track people.,Misinformation
+post_996,user_215,Reddit,23,117,79,Experts debate the safety of boiling water.,Legitimate
+post_997,user_211,TikTok,212,93,70,Water kiosks now serve clean water in Nairobi.,Legitimate
+post_998,user_32,Twitter,297,136,77,Boiled water increases blood acidity.,Misinformation
+post_999,user_158,Twitter,198,148,42,Solar disinfection of water proves effective.,Legitimate
+post_1000,user_285,Reddit,164,75,25,NGOs distribute water purification tablets.,Legitimate
