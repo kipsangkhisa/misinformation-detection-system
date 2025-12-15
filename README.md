@@ -45,10 +45,7 @@ misinformation-detection-system/
 ├── requirements.txt
 └── LICENSE
 
-yaml
-Copy code
 
----
 
 ## 🛠️ Installation
 
@@ -56,7 +53,7 @@ Copy code
 ```bash
 git clone https://github.com/kipsangkhisa/misinformation-detection-system.git
 cd misinformation-detection-system
-📌 2. Set up Python environment
+**📌 2. Set up Python environment**
 Use a virtual environment:
 
 bash
@@ -64,7 +61,7 @@ Copy code
 python3 -m venv env
 source env/bin/activate     # macOS / Linux
 env\Scripts\activate        # Windows
-📌 3. Install dependencies
+**📌 3. Install dependencies**
 bash
 Copy code
 pip install -r requirements.txt
@@ -79,10 +76,10 @@ nltk
 matplotlib
 seaborn
 jupyter
-💡 Tip: You can generate this file automatically with pip freeze > requirements.txt.
+**💡 Tip: You can generate this file automatically with pip freeze > requirements.txt.**
 
-📊 Usage
-🧠 Open the Notebook
+## 📊 Usage
+**🧠 Open the Notebook**
 bash
 Copy code
 jupyter notebook
@@ -103,7 +100,7 @@ Evaluate performance (accuracy, precision, recall, F1)
 
 Predict on new text samples
 
-🧪 Example Prediction
+**🧪 Example Prediction**
 python
 Copy code
 text = "Insert a news text to classify"
@@ -120,7 +117,7 @@ Include analysis of your model’s performance using:
 
 These metrics illustrate how well your model detects misinformation vs legitimate content.
 
-📌 Contributing
+**📌 Contributing**
 Contributions are welcome! You can help by:
 
 ✨ Improving preprocessing
