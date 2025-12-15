@@ -36,16 +36,17 @@ This repository provides a working pipeline to **train, test, evaluate, and depl
 
 ## 📦 Project Structure
 
-misinformation-detection-system/
-├── Disinformation_detection_system.ipynb
-├── data/ # (Optional) dataset files
-├── models/ # Saved model files (if any)
-├── utils/ # Preprocessing + helper code
-├── README.md
-├── requirements.txt
-└── LICENSE
+| File / Folder                         | Description                           |
+|--------------------------------------|---------------------------------------|
+| Disinformation_detection_system.ipynb | Jupyter Notebook with ML pipeline     |
+| data/                                  | Optional dataset files                 |
+| models/                                | Saved ML models                        |
+| utils/                                 | Preprocessing and helper code          |
+| README.md                              | Project README                          |
+| requirements.txt                        | Python dependencies                    |
+| LICENSE                                | Project license                         |
 
-
+---
 
 ## 🛠️ Installation
 
@@ -53,7 +54,7 @@ misinformation-detection-system/
 ```bash
 git clone https://github.com/kipsangkhisa/misinformation-detection-system.git
 cd misinformation-detection-system
-**📌 2. Set up Python environment**
+📌 2. Set up Python environment
 Use a virtual environment:
 
 bash
@@ -61,7 +62,7 @@ Copy code
 python3 -m venv env
 source env/bin/activate     # macOS / Linux
 env\Scripts\activate        # Windows
-**📌 3. Install dependencies**
+📌 3. Install dependencies
 bash
 Copy code
 pip install -r requirements.txt
@@ -76,10 +77,10 @@ nltk
 matplotlib
 seaborn
 jupyter
-**💡 Tip: You can generate this file automatically with pip freeze > requirements.txt.**
+💡 Tip: You can generate this file automatically with pip freeze > requirements.txt.
 
-## 📊 Usage
-**🧠 Open the Notebook**
+📊 Usage
+🧠 Open the Notebook
 bash
 Copy code
 jupyter notebook
@@ -100,12 +101,13 @@ Evaluate performance (accuracy, precision, recall, F1)
 
 Predict on new text samples
 
-**🧪 Example Prediction**
+🧪 Example Prediction
 python
 Copy code
 text = "Insert a news text to classify"
 prediction = model.predict([text])
 print("Misinformation" if prediction == 1 else "Legitimate")
+
 📈 Results & Evaluation
 Include analysis of your model’s performance using:
 
@@ -117,7 +119,7 @@ Include analysis of your model’s performance using:
 
 These metrics illustrate how well your model detects misinformation vs legitimate content.
 
-**📌 Contributing**
+📌 Contributing
 Contributions are welcome! You can help by:
 
 ✨ Improving preprocessing
@@ -137,3 +139,9 @@ Create a new branch
 Make your changes
 
 Submit a Pull Request
+
+📝 License
+This project is licensed under the MIT License. See LICENSE for details.
+
+💬 Acknowledgements
+Thanks to the open-source community and ML practitioners who share NLP and misinformation detection tools and inspiration.
